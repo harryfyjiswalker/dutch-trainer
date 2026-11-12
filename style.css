@@ -271,3 +271,10 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
   background: var(--text); color: var(--bg); padding: 10px 16px; border-radius: 12px; font-size: 14px;
   box-shadow: 0 8px 30px rgba(0,0,0,.2); max-width: calc(100vw - 32px);
 }
+
+/* Sync */
+.sync-badge { color: var(--ok); }
+.sync-badge[data-state="busy"] { color: var(--muted); }
+.sync-badge[data-state="error"] { color: var(--warn); }
+.sync-card { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: 14px; }
+#syncBox p { margin: 0 0 10px; }

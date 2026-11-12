@@ -31,14 +31,51 @@ function load() {
   let s = null;
   try { s = JSON.parse(localStorage.getItem(STORE_KEY)); } catch (e) { /* unavailable */ }
   if (!s || typeof s !== 'object' || !s.cards) s = { version: 1, created: Date.now(), cards: {}, days: {}, custom: {} };
+  return normalize(s);
+}
+function normalize(s) {
   s.settings = Object.assign({}, DEFAULT_SETTINGS, s.settings || {});
-  s.days = s.days || {}; s.custom = s.custom || {};
+  s.cards = s.cards || {}; s.days = s.days || {}; s.custom = s.custom || {};
   return s;
 }
 let saveFailed = false;
-function save() {
+let localVersion = 0;
+function save(fromSync = false) {
   try { localStorage.setItem(STORE_KEY, JSON.stringify(st)); saveFailed = false; }
   catch (e) { if (!saveFailed) toast('Could not save progress in this browser — export a backup!'); saveFailed = true; }
+  if (!fromSync) { localVersion++; if (window.DT && window.DT.onLocalSave) window.DT.onLocalSave(); }
+}
+function saveSettings() { st.settingsTs = Date.now(); save(); }
+
+/* Merge two progress states (this device + cloud). Per sentence, the most recent review wins;
+   daily stats take the larger value; custom accepted answers are combined. */
+function mergeStates(a, b) {
+  a = normalize(JSON.parse(JSON.stringify(a)));
+  b = normalize(JSON.parse(JSON.stringify(b)));
+  const ts = (c) => c.ts || (c.last || 0) * DAY;
+  const out = a;
+  for (const [id, rc] of Object.entries(b.cards)) {
+    const lc = out.cards[id];
+    if (!lc || ts(rc) > ts(lc)) out.cards[id] = rc;
+  }
+  for (const [k, rd] of Object.entries(b.days)) {
+    const ld = out.days[k] || {};
+    out.days[k] = {};
+    for (const f of new Set([...Object.keys(ld), ...Object.keys(rd)])) out.days[k][f] = Math.max(ld[f] || 0, rd[f] || 0);
+  }
+  for (const [id, list] of Object.entries(b.custom)) out.custom[id] = [...new Set([...(out.custom[id] || []), ...list])];
+  if ((b.settingsTs || 0) > (a.settingsTs || 0)) { out.settings = b.settings; out.settingsTs = b.settingsTs; }
+  out.lastBackup = Math.max(a.lastBackup || 0, b.lastBackup || 0) || undefined;
+  out.created = Math.min(a.created || Date.now(), b.created || Date.now());
+  // a "reset all progress" on any device wins over older data from the other
+  const resetAt = Math.max(a.resetAt || 0, b.resetAt || 0);
+  if (resetAt) {
+    out.resetAt = resetAt;
+    for (const id in out.cards) if (ts(out.cards[id]) < resetAt) delete out.cards[id];
+    const resetDay = dayKey(dayIndex(resetAt));
+    for (const k in out.days) if (k < resetDay) delete out.days[k];
+  }
+  return out;
 }
 const S = () => st.settings;
 function today() {
@@ -391,7 +428,15 @@ function show(view) {
   window.scrollTo(0, 0);
 }
 function showCard() {
-  if (sess.idx >= sess.queue.length) return endSession();
+  if (sess.idx >= sess.queue.length) {
+    // ran out before the daily goal: keep going with anything due plus a few new sentences
+    if (sess.practice || today().sec >= S().minutes * 60) return endSession();
+    const extra = dueCards().map((c) => c.id);
+    const news = nextNewCards(5, new Set(extra));
+    if (!extra.length && !news.length) return endSession();
+    sess.queue.push(...interleave(extra, news));
+    toast(news.length ? 'Today’s cards are done — here are a few more new sentences.' : 'One more round of today’s tricky sentences.');
+  }
   const card = BY_ID.get(sess.queue[sess.idx]);
   const isNew = !st.cards[card.id];
   cur = { card, phase: 'prompt', heard: [], spoke: false, hints: 0, dontKnow: false, isNew, warnedSpeak: false };
@@ -543,9 +588,10 @@ function rate(r) {
   const d = today();
   const prev = st.cards[id];
   if (sess.practice) {
-    if (r === 1 && prev) { prev.due = Math.min(prev.due, dayIndex() + 1); prev.ease = Math.max(1.3, prev.ease - 0.1); }
+    if (r === 1 && prev) { prev.due = Math.min(prev.due, dayIndex() + 1); prev.ease = Math.max(1.3, prev.ease - 0.1); prev.ts = Date.now(); }
   } else {
     st.cards[id] = withFuzz(schedule(prev, r));
+    st.cards[id].ts = Date.now();
     if (!prev) { d.newCount++; sess.newSeen++; }
   }
   d.reviews++; sess.reviewed++;
@@ -564,7 +610,7 @@ function rate(r) {
 function knowIt() {
   if (!cur || !cur.isNew) return;
   const t = dayIndex();
-  st.cards[cur.card.id] = { ease: 2.7, ivl: 45, reps: 3, lapses: 0, due: t + 45, last: t, skipped: true };
+  st.cards[cur.card.id] = { ease: 2.7, ivl: 45, reps: 3, lapses: 0, due: t + 45, last: t, skipped: true, ts: Date.now() };
   const repl = nextNewCards(1, new Set(sess.queue));
   if (repl.length) sess.queue.splice(sess.idx + 1, 0, repl[0]);
   save();
@@ -725,15 +771,15 @@ function openSettings() {
 function bindSettings() {
   const num = (el, key, min, max) => el.addEventListener('change', () => {
     const v = Math.max(min, Math.min(max, parseInt(el.value, 10) || DEFAULT_SETTINGS[key]));
-    S()[key] = v; el.value = v; save(); refresh();
+    S()[key] = v; el.value = v; saveSettings(); refresh();
   });
-  num($('setMinutes'), 'minutes', 5, 120);
+  num($('setMinutes'), 'minutes', 5, 240);
   num($('setNew'), 'newPerDay', 0, 60);
-  $('setLevel').addEventListener('change', (e) => { S().level = e.target.value; save(); refresh(); });
-  $('setSpeak').addEventListener('change', (e) => { S().requireSpeak = e.target.checked; save(); applySpeakMode(); });
-  $('setAutoplay').addEventListener('change', (e) => { S().autoplay = e.target.checked; save(); });
-  $('setRate').addEventListener('input', (e) => { S().rate = parseFloat(e.target.value); $('rateVal').textContent = S().rate.toFixed(2) + '×'; save(); });
-  $('setVoice').addEventListener('change', (e) => { S().voiceURI = e.target.value; save(); loadVoices(); speak('Hallo! Zo klink ik.'); });
+  $('setLevel').addEventListener('change', (e) => { S().level = e.target.value; saveSettings(); refresh(); });
+  $('setSpeak').addEventListener('change', (e) => { S().requireSpeak = e.target.checked; saveSettings(); applySpeakMode(); });
+  $('setAutoplay').addEventListener('change', (e) => { S().autoplay = e.target.checked; saveSettings(); });
+  $('setRate').addEventListener('input', (e) => { S().rate = parseFloat(e.target.value); $('rateVal').textContent = S().rate.toFixed(2) + '×'; saveSettings(); });
+  $('setVoice').addEventListener('change', (e) => { S().voiceURI = e.target.value; saveSettings(); loadVoices(); speak('Hallo! Zo klink ik.'); });
   $('testVoice').addEventListener('click', () => speak('Goedemorgen! Ik spreek een beetje Nederlands.'));
   $('exportBtn').addEventListener('click', exportBackup);
   $('importFile').addEventListener('change', importBackup);
@@ -741,7 +787,7 @@ function bindSettings() {
     if (!confirm('Delete ALL progress in this browser? This cannot be undone (unless you have a backup).')) return;
     if (prompt('Type RESET to confirm') !== 'RESET') return;
     const settings = st.settings;
-    st = { version: 1, created: Date.now(), cards: {}, days: {}, custom: {}, settings };
+    st = { version: 1, created: Date.now(), cards: {}, days: {}, custom: {}, settings, resetAt: Date.now(), syncUid: st.syncUid };
     save(); $('settingsDlg').close(); goHome(); toast('Progress reset.');
   });
 }
@@ -786,6 +832,7 @@ function autoGrow() { const a = $('answer'); a.style.height = 'auto'; a.style.he
 function bind() {
   $('homeBtn').onclick = () => { if (!$('quizView').classList.contains('hidden') && sess) endSession(); else goHome(); };
   $('settingsBtn').onclick = openSettings;
+  $('syncBadge').onclick = openSettings;
   $('startBtn').onclick = () => {
     const due = dueCards().length;
     if (!due && !newBudget(0)) startSession({ extraNew: 5 }); else startSession();
@@ -847,5 +894,15 @@ async function init() {
   setInterval(tick, 1000);
   tick();
 }
+window.DT = {
+  getState: () => st,
+  version: () => localVersion,
+  merge: mergeStates,
+  replaceState(s) {
+    st = normalize(s); save(true);
+    if (CARDS.length && !$('homeView').classList.contains('hidden')) renderHome();
+  },
+  onLocalSave: null,
+};
 init();
 })();

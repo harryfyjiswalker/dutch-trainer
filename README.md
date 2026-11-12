@@ -33,9 +33,11 @@ Format, one sentence per line: `English | Dutch | other accepted Dutch | …`. L
 - **Listening** uses the browser's own text-to-speech. Audio buttons only appear if a real Dutch (nl-NL / nl-BE) voice is installed. Chrome and Edge include good ones. On a Mac or iPhone, add one in *System Settings → Accessibility → Spoken Content → Manage voices → Dutch*.
 - **Speaking** uses the browser's speech recognition (Chrome, Edge, Safari). It tells you which words a Dutch recogniser understood. It doesn't score individual sounds, but if a word doesn't come across, that usually points at the sound to work on.
 
-## Progress
+## Progress and sync
 
-Progress is saved in your browser's local storage, on this site only. Use **Settings → Export backup** now and then, and use **Import** to move to another device.
+Progress is always saved in your browser. To use it on more than one device, open **Settings → Sync across devices** and sign in with Google. Progress then syncs through Firebase, with one private document per user. The rules in `firestore.rules` (pasted into the Firebase console) let each signed-in user read and write only their own document. The Firebase settings in `sync.js` are public by design; they don't grant access by themselves.
+
+If both devices change the same sentence, the most recent review wins.
 
 ## Run locally
 
