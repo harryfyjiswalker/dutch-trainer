@@ -1,0 +1,632 @@
+# B1 — intermediate. "you" = je/jij unless marked (formal) → u, or (plural) → jullie.
+
+# Who, which, where (relative clauses)
+The man who lives next door is a pilot.|De man die naast ons woont, is piloot.|De man die hiernaast woont, is piloot.
+The book that I'm reading is very exciting.|Het boek dat ik aan het lezen ben, is erg spannend.|Het boek dat ik lees, is heel spannend.
+The woman I spoke to was very helpful.|De vrouw met wie ik sprak, was heel behulpzaam.|De vrouw met wie ik gesproken heb, was erg behulpzaam.
+That's the house where I was born.|Dat is het huis waar ik geboren ben.|Dat is het huis waarin ik geboren ben.
+The city where we live is quite small.|De stad waar we wonen, is vrij klein.|De stad waarin we wonen, is nogal klein.
+The film we saw yesterday was disappointing.|De film die we gisteren zagen, viel tegen.|De film die we gisteren hebben gezien, was teleurstellend.
+Everything he says is true.|Alles wat hij zegt, is waar.
+That's something I don't understand.|Dat is iets wat ik niet begrijp.|Dat is iets dat ik niet begrijp.
+The only thing I want is peace and quiet.|Het enige wat ik wil, is rust.|Het enige dat ik wil, is rust.
+The people we met on holiday were very nice.|De mensen die we op vakantie ontmoetten, waren heel aardig.|De mensen die we op vakantie hebben ontmoet, waren erg aardig.
+The pen I write with is broken.|De pen waarmee ik schrijf, is kapot.
+The chair you're sitting on is very old.|De stoel waarop je zit, is heel oud.|De stoel waar je op zit, is erg oud.
+The colleague I work with comes from Ghana.|De collega met wie ik samenwerk, komt uit Ghana.
+The reason why I'm calling is simple.|De reden waarom ik bel, is simpel.|De reden waarom ik bel, is eenvoudig.
+Is that the man whose car was stolen?|Is dat de man wiens auto gestolen is?|Is dat de man van wie de auto gestolen is?
+The day we met, it was raining.|De dag dat we elkaar ontmoetten, regende het.|Op de dag dat we elkaar leerden kennen, regende het.
+He told me something which surprised me.|Hij vertelde me iets wat me verbaasde.|Hij vertelde me iets dat me verbaasde.
+She passed her exam, which made her very happy.|Ze is geslaagd voor haar examen, wat haar heel blij maakte.|Ze slaagde voor haar examen, waar ze heel blij mee was.
+The problem we're talking about isn't new.|Het probleem waarover we praten, is niet nieuw.|Het probleem waar we het over hebben, is niet nieuw.
+Whoever wants to come is welcome.|Wie wil komen, is welkom.|Iedereen die wil komen, is welkom.
+
+# Would, could, should
+I would like to live by the sea.|Ik zou graag aan zee willen wonen.|Ik zou graag aan zee wonen.
+If I had more time, I would learn to play the piano.|Als ik meer tijd had, zou ik piano leren spelen.
+If I were you, I'd accept that job.|Als ik jou was, zou ik die baan aannemen.|Als ik jou was, zou ik die baan accepteren.
+What would you do if you won the lottery?|Wat zou je doen als je de loterij won?|Wat zou je doen als je de loterij zou winnen?
+Could you send me the details?|Zou je me de details kunnen sturen?|Kun je me de gegevens sturen?
+Would you mind waiting a moment (formal)?|Zou u even willen wachten?|Wilt u even wachten?
+You should go to the doctor.|Je zou naar de dokter moeten gaan.|Je moet naar de dokter gaan.
+You shouldn't work so hard.|Je zou niet zo hard moeten werken.|Je moet niet zo hard werken.
+I should have called you.|Ik had je moeten bellen.
+You could have told me.|Je had het me kunnen vertellen.
+If I had known that, I would have stayed at home.|Als ik dat had geweten, was ik thuisgebleven.|Als ik dat geweten had, zou ik thuis zijn gebleven.
+We would have come if we had had time.|We waren gekomen als we tijd hadden gehad.|We zouden gekomen zijn als we tijd hadden gehad.
+It would be nice if you came along.|Het zou leuk zijn als je meekwam.|Het zou leuk zijn als je mee zou komen.
+He was supposed to arrive at ten.|Hij zou om tien uur aankomen.
+They said they would call.|Ze zeiden dat ze zouden bellen.|Ze zeiden dat ze zouden terugbellen.
+That might be true.|Dat zou waar kunnen zijn.|Dat kan waar zijn.
+It might rain later.|Het zou straks kunnen gaan regenen.|Het kan straks gaan regenen.
+I wouldn't do that if I were you.|Ik zou dat niet doen als ik jou was.
+Would it be possible to pay later?|Zou het mogelijk zijn later te betalen?|Is het mogelijk om later te betalen?
+I wish I could speak Dutch fluently.|Ik wou dat ik vloeiend Nederlands kon spreken.|Ik zou willen dat ik vloeiend Nederlands sprak.
+I wish you were here.|Ik wou dat je hier was.|Was je maar hier.
+If only I had listened!|Had ik maar geluisterd!
+If only it were weekend already.|Was het maar al weekend.
+
+# Passive voice
+The house was built a hundred years ago.|Het huis is honderd jaar geleden gebouwd.|Het huis werd honderd jaar geleden gebouwd.
+The letter is being written.|De brief wordt geschreven.
+English is spoken here.|Hier wordt Engels gesproken.
+The museum is closed on Mondays.|Het museum is op maandag gesloten.|Op maandag is het museum dicht.
+My bike has been repaired.|Mijn fiets is gerepareerd.
+The meeting was postponed.|De vergadering werd uitgesteld.|De vergadering is uitgesteld.
+The thief was arrested by the police.|De dief werd door de politie gearresteerd.|De dief is door de politie opgepakt.
+The road will be closed tomorrow.|De weg wordt morgen afgesloten.|De weg zal morgen worden afgesloten.
+The results will be announced next week.|De uitslag wordt volgende week bekendgemaakt.|De resultaten worden volgende week bekendgemaakt.
+This product is made in the Netherlands.|Dit product wordt in Nederland gemaakt.|Dit product is in Nederland gemaakt.
+I was invited to the wedding.|Ik ben uitgenodigd voor de bruiloft.|Ik werd uitgenodigd voor de bruiloft.
+The children are picked up at three.|De kinderen worden om drie uur opgehaald.
+The package was delivered this morning.|Het pakket is vanochtend bezorgd.|Het pakketje werd vanochtend bezorgd.
+Smoking is not allowed here.|Roken is hier niet toegestaan.|Hier mag niet worden gerookt.
+People dance a lot here.|Er wordt hier veel gedanst.
+There was a lot of laughing.|Er werd veel gelachen.
+You are being watched.|Je wordt bekeken.|Er wordt naar je gekeken.
+The window has been broken.|Het raam is gebroken.|De ruit is ingegooid.
+It is said that he is very rich.|Er wordt gezegd dat hij heel rijk is.|Men zegt dat hij erg rijk is.
+The decision has not yet been made.|De beslissing is nog niet genomen.|Er is nog geen beslissing genomen.
+
+# Reported speech
+He said that he was ill.|Hij zei dat hij ziek was.
+She told me she would be late.|Ze vertelde me dat ze laat zou zijn.|Ze zei dat ze later zou komen.
+They asked if we wanted to come along.|Ze vroegen of we mee wilden.|Ze vroegen of we mee wilden komen.
+He asked me where I lived.|Hij vroeg me waar ik woonde.|Hij vroeg waar ik woonde.
+She wanted to know when the train left.|Ze wilde weten wanneer de trein vertrok.
+I told him I didn't have time.|Ik zei tegen hem dat ik geen tijd had.|Ik vertelde hem dat ik geen tijd had.
+The doctor said I had to rest.|De dokter zei dat ik rust moest nemen.|De arts zei dat ik moest rusten.
+My boss asked if I could work on Saturday.|Mijn baas vroeg of ik zaterdag kon werken.
+He claims he didn't know anything.|Hij beweert dat hij niets wist.|Hij beweert dat hij van niets wist.
+She promised she would never do it again.|Ze beloofde dat ze het nooit meer zou doen.
+They told us not to wait.|Ze zeiden dat we niet moesten wachten.
+I heard that you're moving.|Ik hoorde dat je gaat verhuizen.|Ik heb gehoord dat je verhuist.
+Apparently the shop is closing.|Blijkbaar gaat de winkel dicht.|Schijnbaar gaat de winkel sluiten.
+They say it's going to be a cold winter.|Ze zeggen dat het een koude winter wordt.|Men zegt dat het een koude winter wordt.
+
+# Laten, worden, blijven
+I'm having my hair cut tomorrow.|Ik laat morgen mijn haar knippen.|Morgen laat ik mijn haar knippen.
+We had the kitchen renovated.|We hebben de keuken laten verbouwen.|We hebben de keuken laten renoveren.
+Let me think.|Laat me even nadenken.|Even denken.
+Let him finish speaking.|Laat hem uitpraten.|Laat hem even uitpraten.
+Don't let it get you down.|Laat je niet kisten.|Laat je niet ontmoedigen.
+She let the children play outside.|Ze liet de kinderen buiten spelen.
+I left my umbrella on the train.|Ik heb mijn paraplu in de trein laten liggen.|Ik heb mijn paraplu in de trein vergeten.
+I'll let you know.|Ik laat het je weten.
+He wants to become a doctor.|Hij wil dokter worden.|Hij wil arts worden.
+It's getting late.|Het wordt laat.
+She became very angry.|Ze werd heel boos.|Ze werd erg kwaad.
+I'm getting old.|Ik word oud.
+We stayed the night with friends.|We bleven bij vrienden slapen.|We hebben bij vrienden geslapen.|We hebben bij vrienden overnacht.
+Keep calm.|Blijf rustig.|Blijf kalm.
+He kept talking.|Hij bleef praten.|Hij bleef maar praten.
+The door stayed open all night.|De deur bleef de hele nacht open.|De deur heeft de hele nacht opengestaan.
+
+# Work and careers
+I've been offered a new job.|Ik heb een nieuwe baan aangeboden gekregen.|Mij is een nieuwe baan aangeboden.
+I'm thinking about changing careers.|Ik denk erover om van carrière te veranderen.|Ik overweeg een carrièreswitch.
+My manager is very demanding.|Mijn leidinggevende is erg veeleisend.|Mijn manager stelt hoge eisen.
+I'd like to discuss my salary.|Ik wil graag mijn salaris bespreken.
+We have a team meeting every Monday morning.|We hebben elke maandagochtend een teamoverleg.|Elke maandagochtend hebben we teamoverleg.
+I'm working on an important project.|Ik werk aan een belangrijk project.
+The project has been delayed.|Het project heeft vertraging opgelopen.|Het project is vertraagd.
+Could you take over my shift?|Zou je mijn dienst kunnen overnemen?|Kun je mijn dienst overnemen?
+I have to give a presentation tomorrow.|Ik moet morgen een presentatie geven.
+She was promoted last month.|Ze is vorige maand gepromoveerd.|Ze heeft vorige maand promotie gemaakt.
+He was fired.|Hij is ontslagen.
+I resigned.|Ik heb ontslag genomen.
+I work for an international company.|Ik werk bij een internationaal bedrijf.|Ik werk voor een internationaal bedrijf.
+Our department is being reorganised.|Onze afdeling wordt gereorganiseerd.
+I have flexible working hours.|Ik heb flexibele werktijden.
+I need to finish this report today.|Ik moet dit rapport vandaag afmaken.|Ik moet dit verslag vandaag afronden.
+Can we schedule a call for next week?|Kunnen we volgende week een belafspraak inplannen?|Kunnen we volgende week een gesprek inplannen?
+I'll get back to you on that.|Ik kom daar later bij je op terug.|Daar kom ik op terug.
+Let's keep in touch.|Laten we contact houden.|Laten we in contact blijven.
+I have a lot of experience in sales.|Ik heb veel ervaring in de verkoop.
+I'm good at solving problems.|Ik ben goed in het oplossen van problemen.|Ik ben goed in problemen oplossen.
+What are your strengths and weaknesses?|Wat zijn je sterke en zwakke punten?|Wat zijn uw sterke en zwakke punten?
+Why do you want to work here?|Waarom wil je hier werken?|Waarom wilt u hier werken?
+I'm looking for a new challenge.|Ik ben op zoek naar een nieuwe uitdaging.
+The work-life balance is important to me.|De balans tussen werk en privé is belangrijk voor me.|Een goede balans tussen werk en privé vind ik belangrijk.
+I'm on sick leave.|Ik zit in de ziektewet.|Ik ben ziek thuis.
+I'm going on parental leave.|Ik ga met ouderschapsverlof.
+Everyone works part-time here.|Iedereen werkt hier parttime.|Hier werkt iedereen deeltijd.
+
+# Emails and formal language
+Dear Sir or Madam,|Geachte heer, mevrouw,|Geachte heer/mevrouw,
+Dear Mrs de Vries,|Geachte mevrouw De Vries,|Beste mevrouw De Vries,
+Thank you for your email.|Bedankt voor je e-mail.|Dank voor uw e-mail.|Bedankt voor uw mail.
+I'm writing to you regarding your advertisement.|Ik schrijf u naar aanleiding van uw advertentie.
+Attached you will find my CV.|In de bijlage vindt u mijn cv.|Bijgevoegd vindt u mijn cv.
+I look forward to hearing from you.|Ik zie uw reactie graag tegemoet.|Ik hoor graag van u.
+Kind regards,|Met vriendelijke groet,|Vriendelijke groeten,
+Please let me know if you have any questions.|Laat het me weten als je vragen hebt.|Laat het gerust weten als u vragen heeft.
+I would like to make a complaint.|Ik wil graag een klacht indienen.
+I apologise for the inconvenience.|Mijn excuses voor het ongemak.|Excuses voor het ongemak.
+Unfortunately, I have to cancel my order.|Helaas moet ik mijn bestelling annuleren.
+Could you confirm receipt?|Kunt u de ontvangst bevestigen?|Wilt u de ontvangst bevestigen?
+As discussed, I'm sending you the documents.|Zoals besproken stuur ik u de documenten.|Zoals afgesproken stuur ik je de documenten.
+I haven't received a reply yet.|Ik heb nog geen antwoord ontvangen.|Ik heb nog geen reactie gekregen.
+Thank you in advance.|Alvast bedankt.|Bij voorbaat dank.
+I'm out of the office until Monday.|Ik ben tot maandag afwezig.|Ik ben tot maandag niet op kantoor.
+
+# Bureaucracy and services
+I need to register with the municipality.|Ik moet me inschrijven bij de gemeente.
+I'd like to open a bank account.|Ik wil graag een bankrekening openen.
+You need a citizen service number.|Je hebt een burgerservicenummer nodig.|U heeft een BSN nodig.
+Do I need to make an appointment?|Moet ik een afspraak maken?
+Which documents should I bring?|Welke documenten moet ik meenemen?|Welke papieren moet ik meenemen?
+My residence permit expires next month.|Mijn verblijfsvergunning verloopt volgende maand.
+I have to file my tax return.|Ik moet mijn belastingaangifte doen.|Ik moet aangifte doen bij de belastingdienst.
+I'd like to report a theft.|Ik wil aangifte doen van diefstal.
+How long is the waiting time?|Hoe lang is de wachttijd?|Hoe lang moet ik wachten?
+You can apply online.|Je kunt het online aanvragen.|U kunt het online aanvragen.
+I received a fine.|Ik heb een boete gekregen.
+The form must be signed.|Het formulier moet ondertekend worden.|Het formulier moet worden ondertekend.
+I've changed insurance companies.|Ik ben overgestapt naar een andere verzekeraar.|Ik ben van verzekering veranderd.
+Health insurance is compulsory in the Netherlands.|Een zorgverzekering is verplicht in Nederland.|In Nederland is een zorgverzekering verplicht.
+I'm registered with a GP.|Ik sta ingeschreven bij een huisarts.|Ik ben ingeschreven bij een huisarts.
+
+# Health and body
+I've had back problems for years.|Ik heb al jaren last van mijn rug.|Ik heb al jaren rugklachten.
+I sprained my ankle while running.|Ik heb mijn enkel verstuikt tijdens het hardlopen.|Ik verstuikte mijn enkel bij het hardlopen.
+The doctor referred me to a specialist.|De huisarts heeft me doorverwezen naar een specialist.
+I have to have an operation.|Ik moet geopereerd worden.|Ik moet een operatie ondergaan.
+How long will it take to recover?|Hoe lang duurt het herstel?|Hoe lang duurt het voordat ik hersteld ben?
+I suffer from hay fever.|Ik heb last van hooikoorts.|Ik heb hooikoorts.
+I've been sleeping badly because of stress.|Ik slaap slecht door de stress.|Door stress slaap ik slecht.
+I'm trying to eat less sugar.|Ik probeer minder suiker te eten.
+I've stopped smoking.|Ik ben gestopt met roken.
+Drink plenty of water.|Drink veel water.|Drink voldoende water.
+Are you taking any medication (formal)?|Gebruikt u medicijnen?|Slikt u medicijnen?
+It hurts when I breathe in.|Het doet pijn als ik inadem.
+I need a blood test.|Ik moet bloed laten prikken.|Ik heb een bloedtest nodig.
+I'm feeling a lot better.|Ik voel me een stuk beter.|Ik voel me veel beter.
+He's still in hospital.|Hij ligt nog in het ziekenhuis.
+I hope you get well soon.|Ik hoop dat je snel beter wordt.|Ik wens je veel beterschap.
+I'm exhausted.|Ik ben uitgeput.|Ik ben doodmoe.
+I've put on weight.|Ik ben aangekomen.
+I've lost five kilos.|Ik ben vijf kilo afgevallen.
+
+# Relationships
+We've known each other since primary school.|We kennen elkaar al sinds de basisschool.|We kennen elkaar van de basisschool.
+How did you two meet?|Hoe hebben jullie elkaar leren kennen?|Hoe hebben jullie elkaar ontmoet?
+We met through friends.|We hebben elkaar via vrienden leren kennen.|We hebben elkaar via vrienden ontmoet.
+They've been together for ten years.|Ze zijn al tien jaar samen.
+They got married last summer.|Ze zijn vorige zomer getrouwd.
+They're getting divorced.|Ze gaan scheiden.
+We broke up.|We zijn uit elkaar.|We zijn uit elkaar gegaan.
+She's expecting a baby.|Ze is zwanger.|Ze verwacht een baby.
+I get on well with my sister.|Ik kan goed opschieten met mijn zus.|Ik kan het goed vinden met mijn zus.
+I don't get on with my neighbour.|Ik kan niet goed opschieten met mijn buurman.
+We had an argument.|We hebben ruzie gehad.|We hadden ruzie.
+We made up.|We hebben het goedgemaakt.|We hebben het bijgelegd.
+I can always count on her.|Ik kan altijd op haar rekenen.
+He's my best friend.|Hij is mijn beste vriend.
+I haven't seen him in ages.|Ik heb hem in tijden niet gezien.|Ik heb hem al eeuwen niet gezien.
+We've lost touch.|We hebben elkaar uit het oog verloren.|We hebben geen contact meer.
+Say hello to your parents from me.|Doe de groeten aan je ouders.
+I trust him completely.|Ik vertrouw hem volledig.|Ik vertrouw hem helemaal.
+She misses her family.|Ze mist haar familie.
+I fell in love with her straight away.|Ik werd meteen verliefd op haar.
+
+# Feelings and reactions
+I'm really looking forward to it.|Ik heb er echt zin in.|Ik kijk er echt naar uit.
+I was really disappointed.|Ik was echt teleurgesteld.|Het viel me echt tegen.
+It turned out better than expected.|Het viel mee.|Het viel beter uit dan verwacht.
+The film was a let-down.|De film viel tegen.
+I'm relieved.|Ik ben opgelucht.
+That annoys me.|Daar erger ik me aan.|Dat irriteert me.
+I get annoyed by people who are always late.|Ik erger me aan mensen die altijd te laat komen.
+I can't stand it.|Ik kan er niet tegen.|Ik kan het niet uitstaan.
+I can't stand the cold.|Ik kan niet tegen de kou.
+I'm not in the mood.|Ik ben niet in de stemming.|Ik heb er geen zin in.
+I'm sick of it.|Ik ben het spuugzat.|Ik ben het zat.
+I'm embarrassed.|Ik schaam me.|Ik geneer me.
+He is ashamed of what he did.|Hij schaamt zich voor wat hij gedaan heeft.
+I was scared to death.|Ik schrok me dood.|Ik was doodsbang.
+I'm not in a hurry.|Ik heb geen haast.
+I'm under a lot of pressure.|Ik sta onder grote druk.|Ik sta onder veel druk.
+It's a weight off my mind.|Er is een last van mijn schouders gevallen.|Dat is een pak van mijn hart.
+It doesn't bother me.|Het stoort me niet.|Ik heb er geen last van.
+It's driving me mad.|Ik word er gek van.
+I'm grateful for your help.|Ik ben je dankbaar voor je hulp.|Ik ben dankbaar voor je hulp.
+
+# Opinions and discussion
+In my view, the government should do more.|Volgens mij moet de regering meer doen.|Ik vind dat de overheid meer moet doen.
+I'm in favour of the plan.|Ik ben voor het plan.|Ik ben voorstander van het plan.
+I'm against it.|Ik ben ertegen.|Ik ben er tegen.
+On the one hand it's cheaper, on the other hand it takes longer.|Aan de ene kant is het goedkoper, aan de andere kant duurt het langer.|Enerzijds is het goedkoper, anderzijds duurt het langer.
+I see your point, but I don't agree.|Ik begrijp wat je bedoelt, maar ik ben het er niet mee eens.
+That's a good point.|Dat is een goed punt.
+It's not that simple.|Zo simpel is het niet.|Zo eenvoudig is het niet.
+What do you mean by that?|Wat bedoel je daarmee?
+That's not what I meant.|Zo bedoelde ik het niet.|Dat bedoelde ik niet.
+In other words, it's too expensive.|Met andere woorden, het is te duur.|Kortom, het is te duur.
+To be honest, I don't like it.|Eerlijk gezegd vind ik het niet mooi.|Eerlijk gezegd vind ik het niet leuk.
+As far as I know, he's not coming.|Voor zover ik weet, komt hij niet.
+It seems to me that it's a mistake.|Het lijkt me een vergissing.|Het lijkt mij een fout.
+That seems like a good idea to me.|Dat lijkt me een goed idee.
+I doubt whether it will work.|Ik betwijfel of het gaat werken.|Ik twijfel of het zal werken.
+I'm convinced that he's lying.|Ik ben ervan overtuigd dat hij liegt.
+There's something to be said for it.|Daar valt iets voor te zeggen.
+It makes no sense.|Het slaat nergens op.|Het heeft geen zin.
+It's worth it.|Het is de moeite waard.
+It's not worth the effort.|Het is de moeite niet waard.
+That goes without saying.|Dat spreekt voor zich.|Dat is vanzelfsprekend.
+I'd like to add something.|Ik wil graag iets toevoegen.
+Let's get to the point.|Laten we ter zake komen.|Laten we to the point komen.
+Let's agree to disagree.|Laten we het erover eens zijn dat we het oneens zijn.
+
+# Living in the Netherlands
+The Dutch are very direct.|Nederlanders zijn heel direct.|Nederlanders zijn erg direct.
+At first I found it rude, but now I appreciate it.|In het begin vond ik het onbeleefd, maar nu waardeer ik het.
+Almost everyone here has a bike.|Bijna iedereen heeft hier een fiets.
+Cycling in the rain is part of life here.|Fietsen in de regen hoort er hier bij.
+People eat dinner quite early here.|Mensen eten hier vrij vroeg.|Hier eet men vrij vroeg.
+Birthdays are celebrated in a circle.|Verjaardagen worden in een kring gevierd.
+On King's Day the whole country turns orange.|Op Koningsdag kleurt het hele land oranje.
+Sinterklaas arrives by boat from Spain.|Sinterklaas komt met de boot uit Spanje.
+Everyone has an agenda, even for a coffee.|Iedereen heeft een agenda, zelfs voor een kopje koffie.
+You have to make an appointment weeks in advance.|Je moet weken van tevoren een afspraak maken.
+Lunch is usually a sandwich.|De lunch is meestal een boterham.|Meestal eet men een boterham als lunch.
+The houses here have very steep stairs.|De huizen hier hebben heel steile trappen.
+Many people don't have curtains.|Veel mensen hebben geen gordijnen.
+Going Dutch is normal here.|Hier betaalt iedereen voor zichzelf.|Samsam doen is hier normaal.
+I've got used to the weather.|Ik ben gewend geraakt aan het weer.|Ik ben aan het weer gewend.
+I feel at home here.|Ik voel me hier thuis.
+The housing market is very tight.|De woningmarkt is erg krap.|De huizenmarkt is heel krap.
+It's hard to find an affordable house.|Het is moeilijk om een betaalbaar huis te vinden.
+Half the country is below sea level.|De helft van het land ligt onder zeeniveau.
+
+# News and society
+I read the news every morning.|Ik lees elke ochtend het nieuws.
+Did you hear about the fire?|Heb je gehoord van de brand?|Heb je het gehoord van de brand?
+There are elections next month.|Volgende maand zijn er verkiezingen.
+Who are you going to vote for?|Op wie ga je stemmen?
+The government has announced new measures.|De regering heeft nieuwe maatregelen aangekondigd.|Het kabinet heeft nieuwe maatregelen aangekondigd.
+Prices have risen sharply.|De prijzen zijn sterk gestegen.
+Everything is getting more expensive.|Alles wordt duurder.
+Unemployment has fallen.|De werkloosheid is gedaald.
+There was a demonstration in The Hague.|Er was een demonstratie in Den Haag.
+The police are investigating the case.|De politie onderzoekt de zaak.
+Several people were injured.|Er raakten meerdere mensen gewond.|Er zijn verschillende mensen gewond geraakt.
+The strike has been called off.|De staking is afgeblazen.|De staking gaat niet door.
+Climate change is a big problem.|Klimaatverandering is een groot probleem.
+We need to use less energy.|We moeten minder energie verbruiken.|We moeten minder energie gebruiken.
+More and more people work from home.|Steeds meer mensen werken thuis.
+According to the newspaper, the bridge will be closed for a month.|Volgens de krant gaat de brug een maand dicht.|Volgens de krant wordt de brug een maand afgesloten.
+The debate was broadcast live.|Het debat werd live uitgezonden.
+There's a lot of discussion about it.|Er is veel discussie over.|Daar wordt veel over gediscussieerd.
+The minister resigned.|De minister is afgetreden.|De minister trad af.
+The number of tourists keeps increasing.|Het aantal toeristen blijft stijgen.|Het aantal toeristen neemt steeds toe.
+
+# Environment
+We separate our waste.|We scheiden ons afval.|Wij scheiden ons afval.
+I try to fly as little as possible.|Ik probeer zo weinig mogelijk te vliegen.
+We've had solar panels installed.|We hebben zonnepanelen laten plaatsen.|We hebben zonnepanelen laten installeren.
+I bring my own bag to the supermarket.|Ik neem mijn eigen tas mee naar de supermarkt.
+Plastic is bad for the environment.|Plastic is slecht voor het milieu.
+The sea level is rising.|De zeespiegel stijgt.
+I eat less meat for the climate.|Ik eet minder vlees voor het klimaat.
+Electric cars are becoming more popular.|Elektrische auto's worden populairder.|Elektrische auto's worden steeds populairder.
+Turn the heating down a degree.|Zet de verwarming een graadje lager.|Draai de verwarming een graad lager.
+It's been an exceptionally warm year.|Het is een uitzonderlijk warm jaar geweest.
+
+# Money
+I'm saving for a new car.|Ik spaar voor een nieuwe auto.
+I can't afford it.|Ik kan het me niet veroorloven.|Dat kan ik niet betalen.
+Can you lend me twenty euros?|Kun je me twintig euro lenen?|Kan je me twintig euro lenen?
+I'll pay you back tomorrow.|Ik betaal je morgen terug.
+I've got a mortgage.|Ik heb een hypotheek.
+The rent goes up every year.|De huur gaat elk jaar omhoog.|De huur stijgt elk jaar.
+I'll send you a payment request.|Ik stuur je een betaalverzoek.|Ik stuur je een tikkie.
+I spent too much money this month.|Ik heb deze maand te veel geld uitgegeven.
+It was a bargain.|Het was een koopje.
+It's a rip-off.|Het is afzetterij.|Dat is oplichterij.
+I paid too much for it.|Ik heb er te veel voor betaald.
+I'm a bit short of money at the moment.|Ik zit op dit moment een beetje krap.|Ik zit nu een beetje krap bij kas.
+Have you transferred the money yet?|Heb je het geld al overgemaakt?
+Every euro counts.|Elke euro telt.|Iedere euro telt.
+
+# Travel stories
+We missed our connection and had to wait three hours.|We misten onze aansluiting en moesten drie uur wachten.|We hebben onze aansluiting gemist en moesten drie uur wachten.
+Our luggage didn't arrive.|Onze bagage is niet aangekomen.|Onze bagage kwam niet aan.
+The hotel was much nicer than in the photos.|Het hotel was veel mooier dan op de foto's.
+We got lost in the mountains.|We zijn verdwaald in de bergen.|We raakten verdwaald in de bergen.
+On the way back we had a flat tyre.|Op de terugweg kregen we een lekke band.|Op de terugweg hadden we een lekke band.
+I've always wanted to go to Japan.|Ik heb altijd al naar Japan gewild.|Ik wilde altijd al naar Japan.
+It was the trip of a lifetime.|Het was de reis van mijn leven.
+We travelled around for three weeks.|We hebben drie weken rondgereisd.
+The locals were very hospitable.|De lokale bevolking was erg gastvrij.|De mensen daar waren heel gastvrij.
+I'd recommend it to everyone.|Ik zou het iedereen aanraden.|Ik raad het iedereen aan.
+We went hiking every day.|We gingen elke dag wandelen.|We hebben elke dag gewandeld.
+The view was breathtaking.|Het uitzicht was adembenemend.
+I got sunburned on the first day.|Ik ben de eerste dag verbrand.|Ik verbrandde op de eerste dag.
+Next time I'll travel lighter.|De volgende keer neem ik minder bagage mee.|Volgende keer reis ik met minder bagage.
+I'm still recovering from the jet lag.|Ik ben nog aan het bijkomen van de jetlag.|Ik heb nog last van een jetlag.
+
+# Media and culture
+Have you seen that new series?|Heb je die nieuwe serie gezien?
+I binge-watched the whole season.|Ik heb het hele seizoen in één keer gekeken.
+The book is better than the film.|Het boek is beter dan de film.
+It's based on a true story.|Het is gebaseerd op een waargebeurd verhaal.
+The ending was a big surprise.|Het einde was een grote verrassing.
+Don't tell me how it ends!|Vertel me niet hoe het afloopt!|Niet verklappen hoe het afloopt!
+We went to a concert last night.|We zijn gisteravond naar een concert geweest.|We gingen gisteravond naar een concert.
+The tickets were sold out within an hour.|De kaartjes waren binnen een uur uitverkocht.
+I listen to podcasts on my way to work.|Ik luister naar podcasts op weg naar mijn werk.|Onderweg naar mijn werk luister ik podcasts.
+The exhibition is worth a visit.|De tentoonstelling is een bezoek waard.|De expositie is de moeite waard.
+Rembrandt is my favourite painter.|Rembrandt is mijn favoriete schilder.|Rembrandt is mijn lievelingsschilder.
+The museum was packed.|Het museum was stampvol.|Het was ontzettend druk in het museum.
+I prefer reading in Dutch now.|Ik lees nu liever in het Nederlands.
+I watch Dutch TV with subtitles.|Ik kijk Nederlandse tv met ondertiteling.
+
+# Food and eating out
+The food here is excellent.|Het eten is hier uitstekend.|Het eten hier is voortreffelijk.
+I'd like my steak medium.|Mijn biefstuk graag medium.|Ik wil mijn biefstuk graag medium.
+Could you bring us some bread?|Zou je ons wat brood kunnen brengen?|Kunt u ons wat brood brengen?
+Is there anything without gluten?|Is er iets zonder gluten?|Heeft u iets glutenvrijs?
+I'm lactose intolerant.|Ik ben lactose-intolerant.|Ik kan niet tegen lactose.
+We had to wait a long time for our food.|We moesten lang op ons eten wachten.
+The service was terrible.|De bediening was vreselijk.|De service was waardeloos.
+We'll definitely come back.|We komen zeker terug.|We komen hier zeker nog eens.
+I'm craving something sweet.|Ik heb trek in iets zoets.|Ik heb zin in iets zoets.
+I'm not very hungry, I'll just have a starter.|Ik heb niet zo'n honger, ik neem alleen een voorgerecht.
+This dish reminds me of my grandmother.|Dit gerecht doet me denken aan mijn oma.
+The recipe calls for two eggs.|Voor het recept heb je twee eieren nodig.|In het recept staan twee eieren.
+Shall we get takeaway tonight?|Zullen we vanavond eten bestellen?|Zullen we vanavond afhaal halen?
+I never skip breakfast.|Ik sla het ontbijt nooit over.
+
+# Home and neighbourhood
+We've just renovated the bathroom.|We hebben net de badkamer verbouwd.|We hebben de badkamer net gerenoveerd.
+The neighbours are making a lot of noise.|De buren maken veel lawaai.|De buren maken veel herrie.
+I'm going to complain to the landlord.|Ik ga klagen bij de verhuurder.|Ik ga een klacht indienen bij de huisbaas.
+The washing machine has broken down.|De wasmachine is kapotgegaan.|De wasmachine is stuk.
+We need to call a plumber.|We moeten een loodgieter bellen.
+The roof is leaking.|Het dak lekt.
+Our street is being dug up.|Onze straat wordt opengebroken.
+There's a nice market in our neighbourhood.|Er is een leuke markt in onze buurt.|In onze buurt is een leuke markt.
+I'm watering the neighbours' plants while they're away.|Ik geef de planten van de buren water terwijl ze weg zijn.
+We're looking for a babysitter.|We zoeken een oppas.|We zijn op zoek naar een oppas.
+The garden needs a lot of work.|De tuin heeft veel onderhoud nodig.|Er moet veel gebeuren in de tuin.
+It's a child-friendly neighbourhood.|Het is een kindvriendelijke buurt.
+
+# Education and children
+My daughter starts school next year.|Mijn dochter gaat volgend jaar naar school.
+The children have a holiday next week.|De kinderen hebben volgende week vakantie.
+He's in the third year of secondary school.|Hij zit in de derde klas van de middelbare school.
+I help my son with his homework.|Ik help mijn zoon met zijn huiswerk.
+There's a parents' evening on Tuesday.|Er is dinsdag een ouderavond.
+She wants to go to university.|Ze wil naar de universiteit.|Ze wil gaan studeren.
+He's doing an internship at a hospital.|Hij loopt stage in een ziekenhuis.
+I'm doing a master's in Amsterdam.|Ik doe een master in Amsterdam.
+The kids are growing up so fast.|De kinderen worden zo snel groot.
+Who takes the children to school?|Wie brengt de kinderen naar school?
+They're allowed to stay up late tonight.|Ze mogen vanavond laat opblijven.
+She's been learning to ride a bike.|Ze leert fietsen.|Ze is aan het leren fietsen.
+
+# Technology and the internet
+My phone keeps crashing.|Mijn telefoon loopt steeds vast.|Mijn telefoon crasht steeds.
+I spend too much time on my phone.|Ik zit te veel op mijn telefoon.|Ik besteed te veel tijd aan mijn telefoon.
+I've deleted all my social media.|Ik heb al mijn sociale media verwijderd.
+I ordered it online and it was delivered the next day.|Ik heb het online besteld en het werd de volgende dag bezorgd.
+You have to log in first.|Je moet eerst inloggen.
+I've backed up all my photos.|Ik heb een back-up gemaakt van al mijn foto's.
+The update took an hour.|De update duurde een uur.
+Can you share your screen?|Kun je je scherm delen?|Kan je je scherm delen?
+You're on mute.|Je microfoon staat uit.|Je staat op mute.
+The connection keeps dropping.|De verbinding valt steeds weg.
+I've received a suspicious email.|Ik heb een verdachte e-mail ontvangen.
+Never share your password.|Deel nooit je wachtwoord.
+
+# Connecting ideas
+First of all, I want to thank everyone.|Allereerst wil ik iedereen bedanken.|Om te beginnen wil ik iedereen bedanken.
+Moreover, it's much cheaper.|Bovendien is het veel goedkoper.
+However, there's one problem.|Er is echter één probleem.|Maar er is één probleem.
+Nevertheless, we decided to go.|Toch besloten we te gaan.|Desondanks besloten we te gaan.
+That's why I'm calling.|Daarom bel ik.
+That's why I didn't come.|Daarom ben ik niet gekomen.|Daarom kwam ik niet.
+In any case, I'll be there.|In ieder geval ben ik er.|Ik ben er in elk geval.
+Anyway, it doesn't matter.|Hoe dan ook, het maakt niet uit.|Enfin, het maakt niet uit.
+Instead of complaining, do something.|In plaats van te klagen, doe er iets aan.|Doe iets in plaats van te klagen.
+Despite the rain, it was a great day.|Ondanks de regen was het een geweldige dag.
+Thanks to your help, it worked.|Dankzij je hulp is het gelukt.
+Because of the strike, there were no trains.|Door de staking reden er geen treinen.|Vanwege de staking reden er geen treinen.
+Unless it rains, we'll eat outside.|Tenzij het regent, eten we buiten.|We eten buiten, tenzij het regent.
+Even if you don't like it, you have to try it.|Ook al vind je het niet lekker, je moet het proberen.|Zelfs als je het niet lekker vindt, moet je het proberen.
+The sooner, the better.|Hoe eerder, hoe beter.
+Not only is it cheap, it's also good.|Het is niet alleen goedkoop, maar ook goed.
+Either we go now, or we don't go at all.|Of we gaan nu, of we gaan helemaal niet.
+Neither my brother nor my sister came.|Mijn broer en mijn zus kwamen allebei niet.|Noch mijn broer noch mijn zus kwam.
+As a result, everything was delayed.|Daardoor liep alles vertraging op.|Als gevolg daarvan was alles vertraagd.
+So that's settled.|Dat is dan geregeld.|Dan is dat geregeld.
+In short, it was a success.|Kortom, het was een succes.
+By the way, have you seen Tom lately?|Trouwens, heb je Tom de laatste tijd gezien?|Heb je Tom trouwens nog gezien?
+Actually, I'd rather stay at home.|Eigenlijk blijf ik liever thuis.
+Apparently he's moved to Groningen.|Blijkbaar is hij naar Groningen verhuisd.|Hij schijnt naar Groningen verhuisd te zijn.
+Hopefully it'll be sunny tomorrow.|Hopelijk is het morgen zonnig.|Hopelijk schijnt morgen de zon.
+Luckily nobody was hurt.|Gelukkig raakte er niemand gewond.|Gelukkig was er niemand gewond.
+Unfortunately it was fully booked.|Helaas was het volgeboekt.|Helaas was alles vol.
+Of course you can stay with us.|Natuurlijk kun je bij ons logeren.|Je mag natuurlijk bij ons logeren.
+Actually, it's quite simple.|Eigenlijk is het heel simpel.|Het is eigenlijk vrij eenvoudig.
+
+# Everyday expressions
+It's raining cats and dogs.|Het regent pijpenstelen.
+It's not my cup of tea.|Het is niet mijn ding.|Dat is niks voor mij.
+That's a piece of cake.|Dat is een eitje.|Dat is een makkie.
+I'm all ears.|Ik ben een en al oor.
+Better late than never.|Beter laat dan nooit.
+It's all the same to me.|Het is mij om het even.|Het maakt mij niet uit.
+That rings a bell.|Dat komt me bekend voor.|Dat zegt me iets.
+I've got butterflies in my stomach.|Ik heb vlinders in mijn buik.
+I'll keep my fingers crossed for you.|Ik duim voor je.
+Break a leg!|Zet 'm op!|Succes!
+Fingers crossed.|Duimen maar.
+It's on the tip of my tongue.|Het ligt op het puntje van mijn tong.
+He's always complaining.|Hij zit altijd te klagen.|Hij klaagt altijd.
+Just be yourself.|Doe maar gewoon.|Wees gewoon jezelf.
+Just act normal, that's crazy enough.|Doe maar normaal, dan doe je al gek genoeg.
+No news is good news.|Geen nieuws is goed nieuws.
+It's now or never.|Het is nu of nooit.
+Out of sight, out of mind.|Uit het oog, uit het hart.
+Easy does it.|Rustig aan, dan breekt het lijntje niet.|Rustig aan.
+I couldn't care less.|Het kan me geen moer schelen.|Het kan me echt niets schelen.
+What's done is done.|Gedane zaken nemen geen keer.
+It's a small world.|De wereld is klein.
+Time flies.|De tijd vliegt.
+Every cloud has a silver lining.|Elk nadeel heeft zijn voordeel.|Elk nadeel heb z'n voordeel.
+
+# Phrasal patterns with prepositions
+I'm interested in history.|Ik ben geïnteresseerd in geschiedenis.|Ik heb interesse in geschiedenis.
+She's good at maths.|Ze is goed in wiskunde.|Ze is goed in rekenen.
+I'm bad at remembering names.|Ik ben slecht in namen onthouden.|Ik kan slecht namen onthouden.
+It's up to you.|Het is aan jou.|Het ligt aan jou.
+I'm thinking of you.|Ik denk aan je.|Ik denk aan jou.
+He asked for help.|Hij vroeg om hulp.
+I'm dreaming of a holiday.|Ik droom van een vakantie.
+She's taking care of her mother.|Ze zorgt voor haar moeder.
+I'm proud of you.|Ik ben trots op je.|Ik ben trots op jou.
+We're talking about the weekend.|We praten over het weekend.|We hebben het over het weekend.
+It smells of smoke.|Het ruikt naar rook.
+I'm responsible for it.|Ik ben er verantwoordelijk voor.
+I'm angry with him.|Ik ben boos op hem.
+He's married to a Dutch woman.|Hij is getrouwd met een Nederlandse.
+It depends on you.|Het hangt van jou af.
+I'm satisfied with the result.|Ik ben tevreden over het resultaat.|Ik ben tevreden met het resultaat.
+I'm used to getting up early.|Ik ben gewend vroeg op te staan.|Ik ben eraan gewend vroeg op te staan.
+I'm aware of the risks.|Ik ben me bewust van de risico's.|Ik ben me van de risico's bewust.
+We're not familiar with the area.|We zijn niet bekend in de omgeving.|We kennen de omgeving niet.
+Are you participating in the race?|Doe je mee aan de wedstrijd?|Neem je deel aan de race?
+
+# Narrating the past
+When I arrived, the meeting had already started.|Toen ik aankwam, was de vergadering al begonnen.
+I had never seen so many people before.|Ik had nog nooit zoveel mensen gezien.
+She had forgotten her keys, so she couldn't get in.|Ze was haar sleutels vergeten, dus ze kon niet naar binnen.
+After he had finished his studies, he moved abroad.|Nadat hij zijn studie had afgerond, verhuisde hij naar het buitenland.
+We had just sat down when the phone rang.|We zaten net toen de telefoon ging.|We waren net gaan zitten toen de telefoon ging.
+I was about to leave when he arrived.|Ik wilde net vertrekken toen hij aankwam.|Ik stond op het punt te vertrekken toen hij aankwam.
+While we were walking, it started to rain.|Terwijl we aan het wandelen waren, begon het te regenen.|Tijdens onze wandeling begon het te regenen.
+It was the first time I had been abroad.|Het was de eerste keer dat ik in het buitenland was.
+Suddenly the lights went out.|Plotseling ging het licht uit.|Opeens viel het licht uit.
+In the end we decided to go home.|Uiteindelijk besloten we naar huis te gaan.
+He used to smoke, but he stopped.|Hij rookte vroeger, maar hij is gestopt.
+We used to go to the beach every summer.|We gingen vroeger elke zomer naar het strand.
+I used to live in Rotterdam.|Vroeger woonde ik in Rotterdam.|Ik woonde vroeger in Rotterdam.
+Back then everything was different.|Toen was alles anders.|Destijds was alles anders.
+It all started when I lost my job.|Het begon allemaal toen ik mijn baan kwijtraakte.
+Years later we met again by chance.|Jaren later kwamen we elkaar toevallig weer tegen.
+
+# Errands and appointments
+I need to get my bike repaired.|Ik moet mijn fiets laten repareren.|Ik moet mijn fiets laten maken.
+How long will the repair take?|Hoe lang duurt de reparatie?
+It'll be ready on Thursday.|Hij is donderdag klaar.|Het is donderdag klaar.
+I'd like to pick up a parcel.|Ik wil graag een pakketje ophalen.|Ik kom een pakket ophalen.
+The parcel was delivered to the neighbours.|Het pakket is bij de buren bezorgd.|Het pakketje is bij de buren afgegeven.
+I have to renew my passport.|Ik moet mijn paspoort verlengen.|Ik moet een nieuw paspoort aanvragen.
+Can I make an appointment for tomorrow morning?|Kan ik een afspraak maken voor morgenochtend?|Kan ik voor morgenochtend een afspraak maken?
+I've been waiting for over an hour.|Ik sta al meer dan een uur te wachten.|Ik wacht al meer dan een uur.
+It's my turn.|Ik ben aan de beurt.
+Who's next?|Wie is er aan de beurt?|Wie is de volgende?
+Could you sign here, please?|Wilt u hier even tekenen?|Kun je hier tekenen?
+Do I need to pay a deposit?|Moet ik een borg betalen?|Moet ik een aanbetaling doen?
+The guarantee has expired.|De garantie is verlopen.
+I'd like a refund.|Ik wil graag mijn geld terug.
+I'll come back later.|Ik kom later wel terug.|Ik kom straks terug.
+
+# Plans and decisions
+I've decided to quit my job.|Ik heb besloten mijn baan op te zeggen.|Ik heb besloten om te stoppen met mijn werk.
+We're thinking of moving to the countryside.|We denken erover om naar het platteland te verhuizen.|We overwegen naar het platteland te verhuizen.
+I haven't made up my mind yet.|Ik heb nog geen besluit genomen.|Ik weet het nog niet.
+It's a difficult choice.|Het is een moeilijke keuze.
+I'll let you know as soon as possible.|Ik laat het je zo snel mogelijk weten.
+The plan fell through.|Het plan is niet doorgegaan.|Het plan ging niet door.
+We'll have to postpone it.|We zullen het moeten uitstellen.|We moeten het uitstellen.
+Everything went according to plan.|Alles ging volgens plan.|Alles verliep volgens plan.
+I'm going to take a gap year.|Ik ga een tussenjaar nemen.
+We've booked our holiday already.|We hebben onze vakantie al geboekt.
+I hope it works out.|Ik hoop dat het lukt.|Ik hoop dat het goed afloopt.
+It didn't work out.|Het is niet gelukt.
+I managed to fix it.|Het is me gelukt om het te repareren.|Ik heb het kunnen maken.
+I've set myself a goal.|Ik heb mezelf een doel gesteld.
+My goal is to speak Dutch fluently within two years.|Mijn doel is om binnen twee jaar vloeiend Nederlands te spreken.
+
+# Describing things
+It's made of wood.|Het is van hout gemaakt.|Het is van hout.
+It's about the size of a shoebox.|Het is ongeveer zo groot als een schoenendoos.
+It's heavier than it looks.|Het is zwaarder dan het eruitziet.
+It looks like a small house.|Het lijkt op een klein huis.
+It's used for opening bottles.|Het wordt gebruikt om flessen te openen.|Je gebruikt het om flessen open te maken.
+It's very practical.|Het is heel praktisch.|Het is erg handig.
+The colour is somewhere between green and blue.|De kleur zit ergens tussen groen en blauw.
+The handle is broken.|Het handvat is kapot.|Het hengsel is kapot.
+It has a round shape.|Het heeft een ronde vorm.|Het is rond.
+It smells a bit strange.|Het ruikt een beetje vreemd.|Het ruikt een beetje raar.
+It feels soft.|Het voelt zacht aan.
+It's second-hand, but it's in good condition.|Het is tweedehands, maar het is in goede staat.
+
+# Comparing past and present
+Things were different in the past.|Vroeger was alles anders.|In het verleden was alles anders.
+Nowadays everyone has a smartphone.|Tegenwoordig heeft iedereen een smartphone.
+When my parents were young, there was no internet.|Toen mijn ouders jong waren, was er geen internet.
+The city has changed a lot in recent years.|De stad is de laatste jaren erg veranderd.|De stad is de afgelopen jaren veel veranderd.
+I used to be much shyer.|Vroeger was ik veel verlegener.
+I've become more patient.|Ik ben geduldiger geworden.
+People used to write letters.|Vroeger schreven mensen brieven.
+These days I hardly ever watch TV.|Tegenwoordig kijk ik bijna nooit meer tv.
+It's not what it used to be.|Het is niet meer wat het geweest is.|Het is niet meer zoals vroeger.
+Life has become more expensive.|Het leven is duurder geworden.
+
+# Complaints and problems
+I'd like to speak to the manager.|Ik wil graag de manager spreken.|Ik wil graag de bedrijfsleider spreken.
+This is not acceptable.|Dit is niet acceptabel.|Dit kan echt niet.
+I've already called three times.|Ik heb al drie keer gebeld.
+Nobody has got back to me.|Niemand heeft me teruggebeld.|Ik heb nog niets gehoord.
+The order arrived damaged.|De bestelling kwam beschadigd aan.|De bestelling is beschadigd aangekomen.
+I was charged twice.|Er is twee keer geld afgeschreven.|Ik heb twee keer betaald.
+The room wasn't clean.|De kamer was niet schoon.
+The heating hasn't worked for a week.|De verwarming doet het al een week niet.|De verwarming werkt al een week niet.
+I want this to be solved as soon as possible.|Ik wil dat dit zo snel mogelijk wordt opgelost.
+Can you guarantee it won't happen again?|Kunt u garanderen dat het niet weer gebeurt?
+That's not my fault.|Dat is niet mijn schuld.|Dat ligt niet aan mij.
+Whose fault is it?|Wiens schuld is het?|Wie heeft het gedaan?
+
+# Giving advice
+If I were you, I'd talk to him.|Als ik jou was, zou ik met hem praten.
+You'd better take an umbrella.|Je kunt beter een paraplu meenemen.
+Why don't you try again?|Waarom probeer je het niet nog een keer?
+Have you thought about asking your boss?|Heb je erover nagedacht het aan je baas te vragen?|Heb je overwogen het je baas te vragen?
+It's best to book in advance.|Je kunt het beste van tevoren boeken.|Het is het beste om van tevoren te reserveren.
+You don't have to decide right now.|Je hoeft niet meteen te beslissen.
+Don't worry too much about it.|Maak je er niet te druk om.|Maak je er niet te veel zorgen over.
+Take your time.|Neem de tijd.|Neem je tijd.
+Just give it a go.|Probeer het gewoon.|Doe het gewoon.
+Make sure you get enough sleep.|Zorg dat je genoeg slaapt.|Zorg ervoor dat je voldoende slaap krijgt.
+It's worth asking.|Het is de moeite waard om het te vragen.
+
+# Sport and free time
+I've signed up for a running event.|Ik heb me ingeschreven voor een hardloopwedstrijd.
+I train three evenings a week.|Ik train drie avonden per week.
+We go sailing every summer.|We gaan elke zomer zeilen.
+I've taken up yoga.|Ik ben met yoga begonnen.
+It's a good way to relax.|Het is een goede manier om te ontspannen.
+I'm a member of a choir.|Ik zit op een koor.|Ik ben lid van een koor.
+On Sundays we often go for a bike ride.|Op zondag gaan we vaak fietsen.|Zondags maken we vaak een fietstocht.
+I don't have much free time.|Ik heb niet veel vrije tijd.
+In my spare time I do volunteer work.|In mijn vrije tijd doe ik vrijwilligerswerk.
+The match was cancelled because of the weather.|De wedstrijd werd afgelast vanwege het weer.|De wedstrijd is afgelast door het weer.
+We supported the other team.|We waren voor het andere team.|We moedigden het andere team aan.
+It ended in a draw.|Het werd gelijkspel.|Het eindigde in een gelijkspel.
+
+# Weather and nature
+It's been a very wet summer.|Het is een erg natte zomer geweest.|Het was een heel natte zomer.
+There's a storm warning for tomorrow.|Er is een stormwaarschuwing voor morgen.|Morgen geldt code oranje.
+The roads are slippery.|De wegen zijn glad.
+The sun is coming out.|De zon komt door.|De zon komt tevoorschijn.
+It's clearing up.|Het klaart op.
+It's going to be a scorcher.|Het wordt bloedheet.|Het wordt snikheet.
+I'm soaked to the skin.|Ik ben doornat.|Ik ben kletsnat.
+The trees are losing their leaves.|De bomen verliezen hun bladeren.
+The days are getting shorter.|De dagen worden korter.
+It's light until ten o'clock in summer.|In de zomer is het tot tien uur licht.

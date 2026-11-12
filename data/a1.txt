@@ -1,0 +1,643 @@
+# Format: English | Dutch | other accepted Dutch versions (optional, separated by |)
+# "you" = je/jij unless marked (formal) → u, or (plural) → jullie.
+
+# Greetings
+Hello!|Hallo!|Hoi!
+Good morning.|Goedemorgen.
+Good afternoon.|Goedemiddag.
+Good evening.|Goedenavond.
+Good night.|Goedenacht.|Welterusten.
+Goodbye.|Tot ziens.|Dag.|Doei.
+See you later.|Tot straks.|Tot later.
+See you tomorrow.|Tot morgen.
+Thank you.|Dank je.|Dank je wel.|Bedankt.
+Thank you very much (formal).|Dank u wel.
+You're welcome.|Graag gedaan.
+Please.|Alsjeblieft.
+Sorry.|Sorry.|Pardon.
+Excuse me (formal), where is the station?|Pardon, waar is het station?
+How are you?|Hoe gaat het?|Hoe gaat het met je?
+I'm fine, thanks.|Goed, dank je.|Het gaat goed, dank je.|Prima, dank je.
+And you?|En met jou?|En jij?
+How are you (formal)?|Hoe gaat het met u?
+Nice to meet you.|Leuk je te ontmoeten.|Aangenaam.
+Welcome!|Welkom!
+Have a nice day!|Fijne dag!|Een fijne dag!
+Have a nice weekend!|Fijn weekend!|Een fijn weekend!
+Enjoy your meal!|Eet smakelijk!
+Cheers!|Proost!
+Yes, please.|Ja, graag.
+No, thank you.|Nee, dank je.|Nee, bedankt.
+
+# Introducing yourself
+My name is Anna.|Mijn naam is Anna.|Ik heet Anna.
+What is your name?|Hoe heet je?|Wat is je naam?
+What is your name (formal)?|Hoe heet u?|Wat is uw naam?
+I am Tom.|Ik ben Tom.
+I am from England.|Ik kom uit Engeland.
+Where are you from?|Waar kom je vandaan?|Waar kom jij vandaan?
+I live in Amsterdam.|Ik woon in Amsterdam.
+Where do you live?|Waar woon je?
+I am thirty years old.|Ik ben dertig jaar oud.|Ik ben dertig jaar.
+How old are you?|Hoe oud ben je?
+I speak English.|Ik spreek Engels.
+I speak a little Dutch.|Ik spreek een beetje Nederlands.
+Do you speak English?|Spreek je Engels?
+Do you speak English (formal)?|Spreekt u Engels?
+I am learning Dutch.|Ik leer Nederlands.
+I don't understand.|Ik begrijp het niet.|Ik snap het niet.
+Can you repeat that?|Kun je dat herhalen?|Kan je dat herhalen?
+Can you speak more slowly?|Kun je langzamer praten?|Kan je langzamer praten?|Kun je langzamer spreken?
+I am a teacher.|Ik ben leraar.|Ik ben docent.|Ik ben lerares.
+I am a student.|Ik ben student.
+I work in an office.|Ik werk op een kantoor.|Ik werk in een kantoor.
+What do you do for a living?|Wat doe je voor werk?|Wat voor werk doe je?
+I am married.|Ik ben getrouwd.
+I have two children.|Ik heb twee kinderen.
+This is my friend Mark.|Dit is mijn vriend Mark.
+This is my wife.|Dit is mijn vrouw.
+This is my husband.|Dit is mijn man.
+
+# Being and having
+I am tired.|Ik ben moe.
+You are late.|Je bent laat.|Jij bent laat.|Je bent te laat.
+He is ill.|Hij is ziek.
+She is happy.|Zij is blij.|Ze is blij.|Ze is gelukkig.
+We are ready.|We zijn klaar.|Wij zijn klaar.
+They are at home.|Ze zijn thuis.|Zij zijn thuis.
+Are you hungry?|Heb je honger?
+I am thirsty.|Ik heb dorst.
+I am cold.|Ik heb het koud.
+I am hot.|Ik heb het warm.
+Is he at home?|Is hij thuis?
+Are you (plural) ready?|Zijn jullie klaar?
+I have a dog.|Ik heb een hond.
+She has a cat.|Ze heeft een kat.|Zij heeft een kat.
+Do you have a pen?|Heb je een pen?
+We have a car.|We hebben een auto.|Wij hebben een auto.
+They have a big house.|Ze hebben een groot huis.|Zij hebben een groot huis.
+He has no time.|Hij heeft geen tijd.
+I don't have a bike.|Ik heb geen fiets.
+Do you (plural) have children?|Hebben jullie kinderen?
+It is cold today.|Het is koud vandaag.|Het is vandaag koud.
+That is nice.|Dat is leuk.|Dat is mooi.|Dat is fijn.
+That is not true.|Dat is niet waar.
+Is that true?|Is dat waar?
+It is not far.|Het is niet ver.
+
+# Family
+This is my mother.|Dit is mijn moeder.
+My father is a doctor.|Mijn vader is dokter.|Mijn vader is arts.
+I have a brother and a sister.|Ik heb een broer en een zus.
+My sister is older than me.|Mijn zus is ouder dan ik.
+My brother lives in Utrecht.|Mijn broer woont in Utrecht.
+Do you have brothers or sisters?|Heb je broers of zussen?
+My parents live in London.|Mijn ouders wonen in Londen.
+My grandmother is ninety.|Mijn oma is negentig.|Mijn grootmoeder is negentig.
+Her son is five years old.|Haar zoon is vijf jaar oud.|Haar zoon is vijf jaar.
+His daughter is a nurse.|Zijn dochter is verpleegkundige.|Zijn dochter is verpleegster.
+Our children go to school.|Onze kinderen gaan naar school.
+Their house is very old.|Hun huis is heel oud.|Hun huis is erg oud.
+The baby is sleeping.|De baby slaapt.
+My uncle has a boat.|Mijn oom heeft een boot.
+My aunt lives in Belgium.|Mijn tante woont in België.
+My cousin is called Lisa.|Mijn nicht heet Lisa.
+We are a big family.|We zijn een grote familie.|Wij zijn een grote familie.|We zijn een groot gezin.
+
+# Numbers and age
+One, two, three.|Een, twee, drie.
+I have three cats.|Ik heb drie katten.
+There are ten people here.|Er zijn hier tien mensen.
+She is twenty-one.|Ze is eenentwintig.|Zij is eenentwintig.
+He is forty-five years old.|Hij is vijfenveertig jaar oud.|Hij is vijfenveertig jaar.
+That costs five euros.|Dat kost vijf euro.
+It costs twelve euros fifty.|Het kost twaalf euro vijftig.
+I need two tickets.|Ik heb twee kaartjes nodig.
+My phone number is six, one, two.|Mijn telefoonnummer is zes, een, twee.
+We have four rooms.|We hebben vier kamers.|Wij hebben vier kamers.
+The train leaves at eight o'clock.|De trein vertrekt om acht uur.
+There are seven days in a week.|Er zijn zeven dagen in een week.|Een week heeft zeven dagen.
+A hundred people live here.|Hier wonen honderd mensen.|Er wonen hier honderd mensen.
+How much is that?|Hoeveel kost dat?|Wat kost dat?
+
+# Time and days
+What time is it?|Hoe laat is het?
+It is nine o'clock.|Het is negen uur.
+It is half past three.|Het is half vier.
+It is quarter past two.|Het is kwart over twee.
+It is quarter to six.|Het is kwart voor zes.
+Today is Monday.|Vandaag is het maandag.|Het is vandaag maandag.|Vandaag is maandag.
+Tomorrow is Tuesday.|Morgen is het dinsdag.|Morgen is dinsdag.
+Yesterday was Sunday.|Gisteren was het zondag.|Gisteren was zondag.
+I work on Wednesday.|Ik werk op woensdag.|Ik werk woensdag.
+On Thursday I go swimming.|Op donderdag ga ik zwemmen.|Donderdag ga ik zwemmen.
+On Friday we eat pizza.|Op vrijdag eten we pizza.|Vrijdag eten we pizza.
+On Saturday I sleep late.|Op zaterdag slaap ik lang uit.|Zaterdag slaap ik uit.|Op zaterdag slaap ik uit.
+What are you doing this weekend?|Wat doe je dit weekend?
+I have time in the morning.|Ik heb 's ochtends tijd.|Ik heb 's morgens tijd.|Ik heb in de ochtend tijd.
+In the evening I read a book.|'s Avonds lees ik een boek.|In de avond lees ik een boek.
+The shop opens at ten.|De winkel gaat om tien uur open.|De winkel opent om tien uur.
+I'm coming at five.|Ik kom om vijf uur.
+See you on Friday.|Tot vrijdag.
+What day is it today?|Welke dag is het vandaag?
+It is January.|Het is januari.
+My birthday is in May.|Mijn verjaardag is in mei.
+In summer it is warm.|In de zomer is het warm.|In de zomer is het warm weer.
+In winter it is cold.|In de winter is het koud.
+Every day I drink coffee.|Elke dag drink ik koffie.|Iedere dag drink ik koffie.
+I am going now.|Ik ga nu.
+Later, please.|Straks graag.|Later, alsjeblieft.
+
+# Food and drink
+I eat bread.|Ik eet brood.
+I drink water.|Ik drink water.
+Do you drink coffee?|Drink je koffie?
+I'd like a tea, please.|Een thee, alsjeblieft.|Ik wil graag een thee.|Mag ik een thee?
+A beer, please.|Een biertje, alsjeblieft.|Een bier, alsjeblieft.
+I don't eat meat.|Ik eet geen vlees.
+I am a vegetarian.|Ik ben vegetariër.
+She eats an apple.|Ze eet een appel.|Zij eet een appel.
+We eat cheese.|We eten kaas.|Wij eten kaas.
+The soup is hot.|De soep is heet.|De soep is warm.
+The coffee is cold.|De koffie is koud.
+I like chocolate.|Ik hou van chocola.|Ik houd van chocola.|Ik vind chocola lekker.|Ik hou van chocolade.
+That is delicious!|Dat is lekker!|Lekker!
+I don't like fish.|Ik vind vis niet lekker.|Ik hou niet van vis.
+Do you want milk?|Wil je melk?
+With milk and sugar?|Met melk en suiker?
+Without sugar, please.|Zonder suiker, alsjeblieft.
+I'm having a sandwich.|Ik neem een broodje.|Ik eet een broodje.
+What are we eating tonight?|Wat eten we vanavond?
+We are eating potatoes and vegetables.|We eten aardappelen en groente.|Wij eten aardappels en groente.
+The children drink juice.|De kinderen drinken sap.
+Breakfast is ready.|Het ontbijt is klaar.
+I'm having lunch at twelve.|Ik lunch om twaalf uur.
+Dinner is at six.|Het avondeten is om zes uur.|We eten om zes uur.
+I'd like an egg.|Ik wil graag een ei.
+The bread is fresh.|Het brood is vers.
+Rice or pasta?|Rijst of pasta?
+I'm hungry. Let's eat!|Ik heb honger. Laten we eten!
+Can I have the menu?|Mag ik de menukaart?|Mag ik het menu?|Mag ik de kaart?
+The bill, please.|De rekening, alstublieft.|De rekening, alsjeblieft.|Mag ik de rekening?
+
+# In the café
+A table for two, please.|Een tafel voor twee, alstublieft.|Een tafel voor twee, alsjeblieft.
+Is this seat free?|Is deze plaats vrij?|Is deze stoel vrij?|Is dit vrij?
+What would you like to drink?|Wat wil je drinken?|Wat wil je drinken?
+What would you like (formal)?|Wat wilt u?|Wat wilt u hebben?|Wat mag het zijn?
+I'll have a coffee.|Ik neem een koffie.
+Two cappuccinos, please.|Twee cappuccino's, alstublieft.|Twee cappuccino's, alsjeblieft.
+Do you have apple pie?|Hebben jullie appeltaart?|Heeft u appeltaart?
+Can I pay by card?|Kan ik met de kaart betalen?|Kan ik pinnen?|Mag ik pinnen?
+Can I pay cash?|Kan ik contant betalen?
+Keep the change.|Laat maar zitten.|Het is goed zo.
+Where is the toilet?|Waar is het toilet?|Waar is de wc?
+
+# Shopping
+I'm looking for a shop.|Ik zoek een winkel.
+Where is the supermarket?|Waar is de supermarkt?
+I need milk.|Ik heb melk nodig.
+I'm buying bread.|Ik koop brood.
+How much does this cost?|Hoeveel kost dit?|Wat kost dit?
+That is too expensive.|Dat is te duur.
+That is cheap.|Dat is goedkoop.
+Do you have a bag?|Heb je een tas?|Heeft u een tas?
+I'd like a kilo of apples.|Ik wil graag een kilo appels.|Een kilo appels, alstublieft.
+Anything else?|Anders nog iets?|Verder nog iets?
+No, that's all.|Nee, dat is alles.
+Do you have this in blue?|Heeft u dit in het blauw?|Hebben jullie dit in het blauw?
+I'm just looking.|Ik kijk alleen even.|Ik kijk even rond.
+The shop is closed.|De winkel is dicht.|De winkel is gesloten.
+The market is on Saturday.|De markt is op zaterdag.|Zaterdag is er markt.
+I want these shoes.|Ik wil deze schoenen.
+This shirt is too small.|Dit shirt is te klein.|Dit overhemd is te klein.
+The trousers are too big.|De broek is te groot.
+
+# Colours and descriptions
+The car is red.|De auto is rood.
+The house is white.|Het huis is wit.
+I have a black cat.|Ik heb een zwarte kat.
+She has blue eyes.|Ze heeft blauwe ogen.|Zij heeft blauwe ogen.
+The grass is green.|Het gras is groen.
+The sky is grey.|De lucht is grijs.
+I like yellow.|Ik hou van geel.|Ik vind geel mooi.
+That is a big house.|Dat is een groot huis.
+That is a small dog.|Dat is een kleine hond.
+The new bike is fast.|De nieuwe fiets is snel.
+The old man is friendly.|De oude man is aardig.|De oude man is vriendelijk.
+It is a beautiful day.|Het is een mooie dag.
+The room is clean.|De kamer is schoon.
+The kitchen is dirty.|De keuken is vies.
+The street is long.|De straat is lang.
+He is tall.|Hij is lang.
+She is short.|Ze is klein.|Zij is klein.
+The book is boring.|Het boek is saai.
+The film is good.|De film is goed.
+The water is deep.|Het water is diep.
+
+# At home
+I live in a flat.|Ik woon in een appartement.|Ik woon in een flat.
+The house has a garden.|Het huis heeft een tuin.
+The kitchen is small.|De keuken is klein.
+My room is upstairs.|Mijn kamer is boven.
+The bathroom is downstairs.|De badkamer is beneden.
+The keys are on the table.|De sleutels liggen op tafel.|De sleutels liggen op de tafel.
+The book is on the shelf.|Het boek staat op de plank.
+The cat is sleeping on the bed.|De kat slaapt op het bed.
+Close the door, please.|Doe de deur dicht, alsjeblieft.|Sluit de deur, alsjeblieft.
+Open the window.|Doe het raam open.|Open het raam.
+The lamp is on.|De lamp is aan.|De lamp staat aan.
+Turn off the light.|Doe het licht uit.
+The television is broken.|De televisie is kapot.|De tv is kapot.
+I sit on the sofa.|Ik zit op de bank.
+Where is my phone?|Waar is mijn telefoon?
+The chair is in the kitchen.|De stoel staat in de keuken.
+There is a picture on the wall.|Er hangt een schilderij aan de muur.|Er hangt een foto aan de muur.
+We have a new fridge.|We hebben een nieuwe koelkast.|Wij hebben een nieuwe koelkast.
+The bed is too soft.|Het bed is te zacht.
+My house is near the park.|Mijn huis is dicht bij het park.|Mijn huis ligt dicht bij het park.|Mijn huis is vlak bij het park.
+
+# Daily routine
+I get up at seven.|Ik sta om zeven uur op.
+I take a shower.|Ik neem een douche.|Ik douche.
+I brush my teeth.|Ik poets mijn tanden.
+I get dressed.|Ik kleed me aan.
+I eat breakfast at eight.|Ik ontbijt om acht uur.
+I go to work by bike.|Ik ga met de fiets naar mijn werk.|Ik fiets naar mijn werk.|Ik ga op de fiets naar mijn werk.
+I work from nine to five.|Ik werk van negen tot vijf.
+I come home at six.|Ik kom om zes uur thuis.
+I cook dinner.|Ik kook het avondeten.|Ik kook.
+I watch TV.|Ik kijk televisie.|Ik kijk tv.
+I go to bed at eleven.|Ik ga om elf uur naar bed.
+I sleep eight hours.|Ik slaap acht uur.
+She wakes up early.|Ze wordt vroeg wakker.|Zij wordt vroeg wakker.
+He always comes late.|Hij komt altijd te laat.|Hij komt altijd laat.
+We often walk in the park.|We wandelen vaak in het park.|Wij lopen vaak in het park.
+I never drink coffee at night.|Ik drink nooit koffie 's avonds.|Ik drink 's avonds nooit koffie.
+Sometimes I work at home.|Soms werk ik thuis.
+I usually take the train.|Ik neem meestal de trein.|Meestal neem ik de trein.
+
+# Verbs in the present
+I walk to the station.|Ik loop naar het station.
+You read a lot.|Je leest veel.|Jij leest veel.
+He writes a letter.|Hij schrijft een brief.
+She sings beautifully.|Ze zingt mooi.|Zij zingt mooi.
+We play football.|We voetballen.|Wij voetballen.
+They are listening to music.|Ze luisteren naar muziek.|Zij luisteren naar muziek.
+Do you understand me?|Begrijp je me?|Begrijp je mij?
+I know that.|Dat weet ik.|Ik weet dat.
+I know him.|Ik ken hem.
+Do you know Peter?|Ken je Peter?
+I think so.|Ik denk het.|Ik denk van wel.
+I don't know.|Ik weet het niet.
+I see the sea.|Ik zie de zee.
+Do you hear that?|Hoor je dat?
+He is looking at the map.|Hij kijkt naar de kaart.
+She is waiting for the bus.|Ze wacht op de bus.|Zij wacht op de bus.
+We live together.|We wonen samen.|Wij wonen samen.
+I'm looking for my keys.|Ik zoek mijn sleutels.
+They are buying a house.|Ze kopen een huis.|Zij kopen een huis.
+He is selling his car.|Hij verkoopt zijn auto.
+I'm opening the door.|Ik doe de deur open.|Ik open de deur.
+The shop closes at six.|De winkel gaat om zes uur dicht.|De winkel sluit om zes uur.
+I'm calling my mother.|Ik bel mijn moeder.
+She is laughing.|Ze lacht.|Zij lacht.
+The child is crying.|Het kind huilt.
+I'm learning fast.|Ik leer snel.
+He is working hard.|Hij werkt hard.
+We are going home.|We gaan naar huis.|Wij gaan naar huis.
+I'm coming too.|Ik kom ook.
+Are you coming?|Kom je?|Kom je ook?
+
+# Questions
+Who is that?|Wie is dat?
+What is that?|Wat is dat?
+Where is the bank?|Waar is de bank?
+When does the film start?|Wanneer begint de film?
+Why are you laughing?|Waarom lach je?
+How do you say that in Dutch?|Hoe zeg je dat in het Nederlands?
+How much bread do we need?|Hoeveel brood hebben we nodig?
+Which bus goes to the centre?|Welke bus gaat naar het centrum?
+Whose bag is this?|Van wie is deze tas?
+What does that mean?|Wat betekent dat?
+Where are you going?|Waar ga je naartoe?|Waar ga je heen?
+What are you doing?|Wat doe je?|Wat ben je aan het doen?
+Is it far?|Is het ver?
+Do you live here?|Woon je hier?
+Do you have a minute?|Heb je even?|Heb je een minuutje?
+Can you help me?|Kun je me helpen?|Kan je me helpen?|Kun je mij helpen?
+Can you help me (formal)?|Kunt u mij helpen?|Kunt u me helpen?
+Is that your car?|Is dat jouw auto?|Is dat je auto?
+Are you sure?|Weet je het zeker?
+What do you want?|Wat wil je?
+
+# Wanting, can, must
+I want to go home.|Ik wil naar huis.|Ik wil naar huis gaan.
+I want a coffee.|Ik wil een koffie.
+Do you want to come?|Wil je komen?|Wil je meekomen?
+I can swim.|Ik kan zwemmen.
+Can you cook?|Kun je koken?|Kan je koken?
+I can't come today.|Ik kan vandaag niet komen.
+We must go now.|We moeten nu gaan.|Wij moeten nu gaan.|We moeten nu weg.
+I have to work tomorrow.|Ik moet morgen werken.
+You must not smoke here.|Je mag hier niet roken.
+May I come in?|Mag ik binnenkomen?
+May I sit here?|Mag ik hier zitten?
+You may go.|Je mag gaan.
+He wants to sleep.|Hij wil slapen.
+She can't drive.|Ze kan niet autorijden.|Zij kan niet rijden.|Ze kan niet rijden.
+I would like to pay.|Ik wil graag betalen.|Ik zou graag willen betalen.
+I'd like to order.|Ik wil graag bestellen.
+We want to see the museum.|We willen het museum zien.|Wij willen het museum zien.
+They have to wait.|Ze moeten wachten.|Zij moeten wachten.
+Can I ask something?|Mag ik iets vragen?|Kan ik iets vragen?
+I like to read.|Ik lees graag.
+She likes to dance.|Ze danst graag.|Zij danst graag.
+We like walking.|We wandelen graag.|Wij wandelen graag.
+I don't like getting up early.|Ik sta niet graag vroeg op.
+
+# Going to (future)
+I'm going to cook tonight.|Ik ga vanavond koken.
+We're going to eat at seven.|We gaan om zeven uur eten.
+Tomorrow I'm going to the beach.|Morgen ga ik naar het strand.
+Are you going shopping?|Ga je winkelen?|Ga je boodschappen doen?
+He is going to call you.|Hij gaat je bellen.
+It's going to rain.|Het gaat regenen.
+I'm going to sleep.|Ik ga slapen.
+Next week we're going to Paris.|Volgende week gaan we naar Parijs.
+I'm going to learn Dutch.|Ik ga Nederlands leren.
+Are we going to walk?|Gaan we lopen?|Gaan we wandelen?
+
+# Places in town
+Where is the train station?|Waar is het treinstation?|Waar is het station?
+The museum is closed today.|Het museum is vandaag dicht.|Het museum is vandaag gesloten.
+I'm going to the bakery.|Ik ga naar de bakker.|Ik ga naar de bakkerij.
+The library is next to the church.|De bibliotheek is naast de kerk.|De bieb is naast de kerk.
+The hotel is opposite the station.|Het hotel is tegenover het station.
+Is there a pharmacy here?|Is er hier een apotheek?
+The hospital is far away.|Het ziekenhuis is ver weg.
+We are meeting at the square.|We spreken af op het plein.|We zien elkaar op het plein.
+The park is beautiful.|Het park is mooi.
+I'm going to the cinema.|Ik ga naar de bioscoop.
+The school is around the corner.|De school is om de hoek.
+Is there a restaurant nearby?|Is er een restaurant in de buurt?
+The post office is closed.|Het postkantoor is dicht.|Het postkantoor is gesloten.
+The bridge is very old.|De brug is heel oud.|De brug is erg oud.
+There are many canals in Amsterdam.|Er zijn veel grachten in Amsterdam.|In Amsterdam zijn veel grachten.
+
+# Directions
+Go straight ahead.|Ga rechtdoor.|Loop rechtdoor.
+Turn left.|Ga linksaf.|Sla linksaf.
+Turn right at the traffic lights.|Ga bij het stoplicht rechtsaf.|Sla bij het stoplicht rechtsaf.
+It is on the left.|Het is aan de linkerkant.|Het is links.
+It is on the right.|Het is aan de rechterkant.|Het is rechts.
+It's the second street on the left.|Het is de tweede straat links.|Het is de tweede straat aan de linkerkant.
+Is it far from here?|Is het ver hiervandaan?|Is het ver van hier?
+It's five minutes on foot.|Het is vijf minuten lopen.
+It's close by.|Het is vlakbij.|Het is dichtbij.
+Where can I find a taxi?|Waar kan ik een taxi vinden?
+I'm lost.|Ik ben verdwaald.
+Can you show me on the map?|Kun je het op de kaart laten zien?|Kunt u het op de kaart laten zien?
+
+# Transport
+I'm going by train.|Ik ga met de trein.
+She goes by bike.|Ze gaat met de fiets.|Zij gaat op de fiets.|Ze fietst.
+We're taking the bus.|We nemen de bus.|Wij nemen de bus.
+The tram is coming.|De tram komt eraan.|De tram komt.
+The train is late.|De trein is te laat.|De trein heeft vertraging.
+When does the next train leave?|Wanneer vertrekt de volgende trein?|Hoe laat gaat de volgende trein?
+A ticket to Rotterdam, please.|Een kaartje naar Rotterdam, alstublieft.|Een kaartje naar Rotterdam, alsjeblieft.
+A return ticket, please.|Een retourtje, alstublieft.|Een retour, alstublieft.
+Which platform?|Welk spoor?|Welk perron?
+The train leaves from platform five.|De trein vertrekt van spoor vijf.
+I'm getting off here.|Ik stap hier uit.
+Where do I have to get off?|Waar moet ik uitstappen?
+I have a car.|Ik heb een auto.
+I drive to work.|Ik rijd naar mijn werk.|Ik ga met de auto naar mijn werk.
+The airport is big.|Het vliegveld is groot.|De luchthaven is groot.
+My bike is broken.|Mijn fiets is kapot.
+I walk to school.|Ik loop naar school.
+
+# Weather
+The sun is shining.|De zon schijnt.
+It's raining.|Het regent.
+It's snowing.|Het sneeuwt.
+It's windy.|Het waait.|Het is winderig.
+It's nice weather today.|Het is mooi weer vandaag.|Het is vandaag mooi weer.
+It's bad weather.|Het is slecht weer.
+It's very hot today.|Het is erg warm vandaag.|Het is heel warm vandaag.|Het is vandaag erg warm.
+It's cloudy.|Het is bewolkt.
+Take an umbrella.|Neem een paraplu mee.
+Tomorrow it will be sunny.|Morgen wordt het zonnig.|Morgen is het zonnig.
+It's twenty degrees.|Het is twintig graden.
+What's the weather like?|Hoe is het weer?|Wat voor weer is het?
+It's freezing.|Het vriest.
+
+# Body and health
+I have a headache.|Ik heb hoofdpijn.
+My back hurts.|Mijn rug doet pijn.
+I am ill.|Ik ben ziek.
+She has a cold.|Ze is verkouden.|Zij is verkouden.
+I have a fever.|Ik heb koorts.
+I need a doctor.|Ik heb een dokter nodig.|Ik heb een arts nodig.
+My feet hurt.|Mijn voeten doen pijn.
+He has a stomach ache.|Hij heeft buikpijn.
+Get well soon!|Beterschap!
+I feel good.|Ik voel me goed.
+I feel bad.|Ik voel me slecht.|Ik voel me niet lekker.
+I'm going to the dentist.|Ik ga naar de tandarts.
+Wash your hands.|Was je handen.
+My eyes are tired.|Mijn ogen zijn moe.
+I have long hair.|Ik heb lang haar.
+He has a big nose.|Hij heeft een grote neus.
+
+# Clothes
+I'm wearing a jacket.|Ik draag een jas.|Ik heb een jas aan.
+She is wearing a red dress.|Ze draagt een rode jurk.|Zij draagt een rode jurk.|Ze heeft een rode jurk aan.
+These shoes are new.|Deze schoenen zijn nieuw.
+Where is my coat?|Waar is mijn jas?
+I need a new sweater.|Ik heb een nieuwe trui nodig.
+Put on your hat.|Zet je muts op.|Zet je hoed op.
+Take off your shoes.|Doe je schoenen uit.
+These socks are warm.|Deze sokken zijn warm.
+He wears glasses.|Hij draagt een bril.|Hij heeft een bril.
+My trousers are too long.|Mijn broek is te lang.
+
+# Likes and dislikes
+I like this city.|Ik vind deze stad leuk.|Ik vind deze stad mooi.
+I love you.|Ik hou van je.|Ik houd van je.|Ik hou van jou.
+Do you like music?|Hou je van muziek?|Houd je van muziek?
+What do you think of it?|Wat vind je ervan?
+I think it's beautiful.|Ik vind het mooi.
+I think it's strange.|Ik vind het raar.|Ik vind het vreemd.
+I don't like this.|Ik vind dit niet leuk.|Dit vind ik niet leuk.
+She likes cats.|Ze houdt van katten.|Zij houdt van katten.|Ze vindt katten leuk.
+He doesn't like vegetables.|Hij houdt niet van groente.|Hij vindt groente niet lekker.
+My favourite colour is green.|Mijn lievelingskleur is groen.|Mijn favoriete kleur is groen.
+What is your favourite food?|Wat is je lievelingseten?|Wat is jouw lievelingseten?
+I find Dutch difficult.|Ik vind Nederlands moeilijk.
+I find it easy.|Ik vind het makkelijk.|Ik vind het gemakkelijk.
+
+# Hobbies
+I play the guitar.|Ik speel gitaar.
+She plays tennis.|Ze speelt tennis.|Zij speelt tennis.|Ze tennist.
+We go swimming on Sunday.|We gaan op zondag zwemmen.|Zondag gaan we zwemmen.
+I read a lot of books.|Ik lees veel boeken.
+He likes to cook.|Hij kookt graag.
+I take photos.|Ik maak foto's.
+They play games.|Ze spelen spelletjes.|Zij spelen spelletjes.
+I like to travel.|Ik reis graag.
+Do you do sport?|Doe je aan sport?|Sport je?
+I run every morning.|Ik ren elke ochtend.|Ik hardloop elke ochtend.|Ik loop elke ochtend hard.
+My hobby is painting.|Mijn hobby is schilderen.
+I listen to the radio.|Ik luister naar de radio.
+We go to the cinema often.|We gaan vaak naar de bioscoop.|Wij gaan vaak naar de film.
+
+# Work and school
+I work at a hospital.|Ik werk in een ziekenhuis.|Ik werk bij een ziekenhuis.
+She works at a bank.|Ze werkt bij een bank.|Zij werkt bij een bank.
+My boss is nice.|Mijn baas is aardig.|Mijn baas is leuk.
+I have a meeting at ten.|Ik heb om tien uur een vergadering.|Ik heb een vergadering om tien uur.
+The office is closed on Sunday.|Het kantoor is op zondag dicht.|Op zondag is het kantoor gesloten.
+I am going to school.|Ik ga naar school.
+The teacher is explaining the lesson.|De leraar legt de les uit.|De docent legt de les uit.
+I have homework.|Ik heb huiswerk.
+The lesson starts at nine.|De les begint om negen uur.
+I'm writing an email.|Ik schrijf een e-mail.|Ik schrijf een mail.
+My colleague is ill today.|Mijn collega is vandaag ziek.
+I work part-time.|Ik werk parttime.|Ik werk deeltijd.
+He is looking for work.|Hij zoekt werk.
+I'm busy.|Ik heb het druk.|Ik ben druk.|Ik ben bezig.
+
+# Negation
+I don't smoke.|Ik rook niet.
+He is not at home.|Hij is niet thuis.
+That is not my bag.|Dat is niet mijn tas.|Dat is mijn tas niet.
+I have no money.|Ik heb geen geld.
+There is no milk.|Er is geen melk.
+We don't have a garden.|We hebben geen tuin.|Wij hebben geen tuin.
+She doesn't work today.|Ze werkt vandaag niet.|Zij werkt vandaag niet.
+I don't understand that.|Dat begrijp ik niet.|Ik begrijp dat niet.
+It's not expensive.|Het is niet duur.
+I don't have a car.|Ik heb geen auto.
+Nobody is here.|Er is niemand.|Niemand is hier.
+I see nothing.|Ik zie niets.|Ik zie niks.
+I never eat sweets.|Ik eet nooit snoep.
+Not now.|Nu niet.
+Not yet.|Nog niet.
+No problem.|Geen probleem.
+
+# There is / are
+There is a cat in the garden.|Er is een kat in de tuin.|Er zit een kat in de tuin.
+There are two beds in the room.|Er staan twee bedden in de kamer.|Er zijn twee bedden in de kamer.
+Is there a bakery here?|Is er hier een bakker?|Is hier een bakker?
+There is a lot of traffic.|Er is veel verkeer.
+There are no tickets anymore.|Er zijn geen kaartjes meer.
+There is someone at the door.|Er staat iemand aan de deur.|Er is iemand aan de deur.
+There is a problem.|Er is een probleem.
+What's on TV?|Wat is er op tv?|Wat is er op televisie?
+
+# Plurals and articles
+The dog barks.|De hond blaft.
+The dogs bark.|De honden blaffen.
+The child plays.|Het kind speelt.
+The children play.|De kinderen spelen.
+The house is big.|Het huis is groot.
+The houses are big.|De huizen zijn groot.
+I have one sister and two brothers.|Ik heb één zus en twee broers.
+The girl is reading.|Het meisje leest.
+The girls are reading.|De meisjes lezen.
+The city is busy.|De stad is druk.
+The cities are busy.|De steden zijn druk.
+The apple is red.|De appel is rood.
+The apples are green.|De appels zijn groen.
+The woman is a pilot.|De vrouw is piloot.
+The men are working.|De mannen werken.
+The table is round.|De tafel is rond.
+The book is on the table.|Het boek ligt op tafel.|Het boek ligt op de tafel.
+The books are on the table.|De boeken liggen op tafel.|De boeken liggen op de tafel.
+
+# This and that
+This is my house.|Dit is mijn huis.
+That is your room.|Dat is jouw kamer.|Dat is je kamer.
+This book is good.|Dit boek is goed.
+This chair is broken.|Deze stoel is kapot.
+That car is expensive.|Die auto is duur.
+That house is old.|Dat huis is oud.
+These apples are sour.|Deze appels zijn zuur.
+Those people are nice.|Die mensen zijn aardig.|Die mensen zijn leuk.
+I want this one.|Ik wil deze.|Ik wil dit.
+Which one?|Welke?
+That one there.|Die daar.
+
+# Possession
+My bike is blue.|Mijn fiets is blauw.
+Your house is beautiful.|Je huis is mooi.|Jouw huis is mooi.
+His name is Pieter.|Zijn naam is Pieter.
+Her car is new.|Haar auto is nieuw.
+Our dog is old.|Onze hond is oud.
+Our house is small.|Ons huis is klein.
+Your (plural) garden is big.|Jullie tuin is groot.
+Their children are sweet.|Hun kinderen zijn lief.
+Is this your bag (formal)?|Is dit uw tas?
+That is mine.|Dat is van mij.|Dat is de mijne.
+Is that yours?|Is dat van jou?
+The bike is his.|De fiets is van hem.
+
+# Small talk
+Busy day?|Drukke dag?
+How was your weekend?|Hoe was je weekend?
+Great!|Geweldig!|Super!
+Not bad.|Niet slecht.
+It's okay.|Het gaat wel.|Het is oké.
+Really?|Echt?|Echt waar?
+Of course.|Natuurlijk.
+That's a pity.|Dat is jammer.|Jammer.
+Good luck!|Succes!|Veel succes!
+Congratulations!|Gefeliciteerd!
+Happy birthday!|Gefeliciteerd met je verjaardag!|Fijne verjaardag!
+Have fun!|Veel plezier!
+Take care!|Doe voorzichtig!|Pas goed op jezelf!
+Wait a moment.|Wacht even.|Een momentje.
+I agree.|Ik ben het ermee eens.|Mee eens.
+Exactly.|Precies.
+Maybe.|Misschien.
+Come in!|Kom binnen!|Kom erin!
+Sit down.|Ga zitten.
+Hurry up!|Schiet op!|Opschieten!
+
+# Simple past events (have done)
+I have eaten.|Ik heb gegeten.
+I worked yesterday.|Ik heb gisteren gewerkt.|Gisteren heb ik gewerkt.
+We watched a film.|We hebben een film gekeken.|Wij hebben een film gekeken.
+She bought a new bike.|Ze heeft een nieuwe fiets gekocht.|Zij heeft een nieuwe fiets gekocht.
+Did you sleep well?|Heb je goed geslapen?
+I didn't sleep well.|Ik heb niet goed geslapen.|Ik heb slecht geslapen.
+He called me.|Hij heeft me gebeld.|Hij heeft mij gebeld.
+I went to the market.|Ik ben naar de markt gegaan.
+We came home late.|We zijn laat thuisgekomen.|Wij zijn laat thuisgekomen.
+She stayed at home.|Ze is thuisgebleven.|Zij is thuis gebleven.|Ze is thuis gebleven.
+Have you seen my keys?|Heb je mijn sleutels gezien?
+I have read the book.|Ik heb het boek gelezen.
+They drank a lot of coffee.|Ze hebben veel koffie gedronken.|Zij hebben veel koffie gedronken.
+I forgot it.|Ik ben het vergeten.
+I lost my phone.|Ik ben mijn telefoon kwijt.|Ik ben mijn telefoon verloren.
+Did you have a good holiday?|Heb je een fijne vakantie gehad?|Heb je een leuke vakantie gehad?
+Yesterday I was ill.|Gisteren was ik ziek.|Ik was gisteren ziek.
+It was nice.|Het was leuk.|Het was gezellig.
+The weather was beautiful.|Het weer was mooi.|Het was mooi weer.
+Where were you?|Waar was je?|Waar was jij?
+We were in Amsterdam.|We waren in Amsterdam.|Wij waren in Amsterdam.
+I had no time.|Ik had geen tijd.
+
+# Cosy and Dutch
+It's cosy here.|Het is hier gezellig.|Het is gezellig hier.
+That was a cosy evening.|Dat was een gezellige avond.
+Shall we have a drink?|Zullen we iets drinken?|Zullen we wat gaan drinken?
+Shall we go for a walk?|Zullen we een wandeling maken?|Zullen we gaan wandelen?
+Shall we go?|Zullen we gaan?
+Come on, let's go!|Kom op, we gaan!|Kom, we gaan!
+Let's meet tomorrow.|Laten we morgen afspreken.
+Fine by me.|Prima.|Mij best.|Goed.
+That's fine.|Dat is prima.|Dat is goed.
+Okay, see you then.|Oké, tot dan.
