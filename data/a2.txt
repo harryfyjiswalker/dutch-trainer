@@ -655,3 +655,569 @@ Let's go!|Laten we gaan!|Kom, we gaan!
 Let's not argue.|Laten we geen ruzie maken.
 Could you please be quiet?|Kun je alsjeblieft stil zijn?|Wil je alsjeblieft stil zijn?
 Would you like to sit here?|Wil je hier zitten?|Wilt u hier zitten?
+
+# Vocabulary: in the kitchen
+Where are the knives and forks?|Waar liggen de messen en vorken?|Waar zijn de messen en vorken?
+Put the spoons in the drawer.|Leg de lepels in de la.
+I need a bigger pan.|Ik heb een grotere pan nodig.
+The plates are in the cupboard.|De borden staan in de kast.
+Can you fill the kettle?|Kun je de waterkoker vullen?|Kan je de waterkoker vullen?
+The glass is empty.|Het glas is leeg.
+Pour me a cup of tea.|Schenk me een kopje thee in.
+Don't forget to switch off the oven.|Vergeet niet de oven uit te zetten.
+The bread is on the chopping board.|Het brood ligt op de snijplank.
+I've lost the bottle opener.|Ik ben de flesopener kwijt.
+The fridge is almost empty.|De koelkast is bijna leeg.
+Put the leftovers in the freezer.|Doe de restjes in de vriezer.
+The microwave is broken.|De magnetron is kapot.
+Wipe the table, please.|Veeg de tafel even af.|Wil je de tafel afnemen?
+The sink is full of dishes.|De gootsteen staat vol met afwas.
+Where is the tin opener?|Waar is de blikopener?
+I'm boiling an egg.|Ik kook een ei.
+Stir the soup now and then.|Roer af en toe in de soep.
+Peel the potatoes first.|Schil eerst de aardappels.|Schil eerst de aardappelen.
+I'm frying an onion.|Ik bak een ui.
+Mix the flour and the sugar.|Meng de bloem en de suiker.
+The water is boiling.|Het water kookt.
+Taste it first.|Proef het eerst.
+It's a bit too salty.|Het is een beetje te zout.
+The milk has gone sour.|De melk is zuur geworden.
+Add a pinch of pepper.|Voeg een snufje peper toe.
+Grate the cheese.|Rasp de kaas.
+Wash the vegetables well.|Was de groente goed.
+The cake has to cool down.|De taart moet afkoelen.
+Cover the bowl with a tea towel.|Dek de kom af met een theedoek.
+
+# Vocabulary: food shopping
+We need eggs, butter and flour.|We hebben eieren, boter en bloem nodig.
+A loaf of brown bread, please.|Een bruin brood, alstublieft.|Een volkorenbrood, alstublieft.
+Half a kilo of minced meat.|Een halve kilo gehakt.|Een pond gehakt.
+I'll take six bread rolls.|Ik neem zes broodjes.
+How much are the strawberries?|Hoeveel kosten de aardbeien?|Wat kosten de aardbeien?
+The bananas are still green.|De bananen zijn nog groen.
+These pears are ripe.|Deze peren zijn rijp.
+I'm looking for the peanut butter.|Ik zoek de pindakaas.
+Are these grapes without seeds?|Zijn deze druiven pitloos?|Zijn dit druiven zonder pit?
+Do you have fresh herbs?|Heeft u verse kruiden?|Hebben jullie verse kruiden?
+I buy my vegetables at the market.|Ik koop mijn groente op de markt.
+A bag of oranges, please.|Een zak sinaasappels, alstublieft.
+Where can I find the rice?|Waar kan ik de rijst vinden?|Waar ligt de rijst?
+The tomatoes are on offer.|De tomaten zijn in de aanbieding.
+I'd like two hundred grams of young cheese.|Ik wil graag tweehonderd gram jonge kaas.
+Sliced, please.|Gesneden, alstublieft.|Gesneden graag.
+Do you have oat milk?|Heeft u havermelk?|Hebben jullie havermelk?
+We're out of toilet paper.|Het wc-papier is op.|We hebben geen wc-papier meer.
+Don't forget the washing-up liquid.|Vergeet het afwasmiddel niet.
+A packet of biscuits.|Een pak koekjes.
+A bottle of olive oil.|Een fles olijfolie.
+A tin of tomatoes.|Een blik tomaten.
+A jar of jam.|Een pot jam.
+A piece of chicken breast.|Een stuk kipfilet.
+Is this fish fresh?|Is deze vis vers?
+I always bring a shopping list.|Ik neem altijd een boodschappenlijstje mee.
+The queue at the checkout is long.|De rij bij de kassa is lang.
+Do you need a receipt?|Wilt u het bonnetje?|Heeft u het bonnetje nodig?
+
+# Vocabulary: the house
+The front door is locked.|De voordeur is op slot.
+Ring the doorbell.|Bel aan.|Druk op de bel.
+Wipe your feet on the doormat.|Veeg je voeten op de deurmat.
+The hallway is very narrow.|De gang is heel smal.|De hal is erg smal.
+The bedroom is at the back.|De slaapkamer is aan de achterkant.
+We have a balcony at the front.|We hebben een balkon aan de voorkant.
+The attic is full of boxes.|De zolder staat vol met dozen.
+The bike is in the shed.|De fiets staat in de schuur.
+The curtains are closed.|De gordijnen zijn dicht.
+Can you open the blinds?|Kun je de rolluiken opendoen?|Kun je de lamellen opendoen?
+There's a rug on the floor.|Er ligt een kleed op de vloer.
+The mirror is above the washbasin.|De spiegel hangt boven de wastafel.
+The towels are in the bathroom.|De handdoeken liggen in de badkamer.
+I prefer a shower to a bath.|Ik douche liever dan dat ik in bad ga.|Ik neem liever een douche dan een bad.
+The toilet doesn't flush.|De wc trekt niet door.
+There's no hot water.|Er is geen warm water.
+The pillow is too hard.|Het kussen is te hard.
+I need an extra blanket.|Ik heb een extra deken nodig.
+The wardrobe is full.|De kledingkast zit vol.|De kast is vol.
+Hang your coat on the hook.|Hang je jas aan de haak.|Hang je jas aan de kapstok.
+The plug doesn't fit in the socket.|De stekker past niet in het stopcontact.
+The light bulb has blown.|Het lampje is kapot.|De lamp is doorgebrand.
+The radiator is cold.|De verwarming is koud.|De radiator is koud.
+The walls are very thin.|De muren zijn heel dun.
+We live on the ground floor.|We wonen op de begane grond.
+The neighbours have a big garden with a pond.|De buren hebben een grote tuin met een vijver.
+The gate is open.|Het hek staat open.
+The letterbox is full.|De brievenbus zit vol.
+There's a lot of dust under the bed.|Er ligt veel stof onder het bed.
+The window sill is full of plants.|De vensterbank staat vol met planten.
+
+# Vocabulary: clothes and appearance
+I'm wearing my new boots.|Ik draag mijn nieuwe laarzen.|Ik heb mijn nieuwe laarzen aan.
+These jeans are too tight.|Deze spijkerbroek zit te strak.|Deze spijkerbroek is te strak.
+This jumper is made of wool.|Deze trui is van wol.
+I need a belt.|Ik heb een riem nodig.
+Your shirt is inside out.|Je shirt zit binnenstebuiten.|Je shirt is binnenstebuiten.
+Button up your coat.|Doe je jas dicht.|Knoop je jas dicht.
+I've lost a glove.|Ik ben een handschoen kwijt.
+Take a scarf, it's cold.|Neem een sjaal mee, het is koud.
+She's wearing a skirt and a blouse.|Ze draagt een rok en een blouse.
+He always wears a tie.|Hij draagt altijd een stropdas.
+I sleep in pyjamas.|Ik slaap in een pyjama.
+My shoes are wet.|Mijn schoenen zijn nat.
+These trainers are comfortable.|Deze sneakers zitten lekker.|Deze sportschoenen zitten comfortabel.
+The zip is broken.|De rits is kapot.
+There's a hole in my sock.|Er zit een gat in mijn sok.
+This colour suits you.|Deze kleur staat je goed.
+That dress looks good on you.|Die jurk staat je goed.
+I have to wash my hair.|Ik moet mijn haar wassen.
+She's had her hair cut short.|Ze heeft haar haar kort laten knippen.
+He's going bald.|Hij wordt kaal.
+She's wearing earrings.|Ze draagt oorbellen.|Ze heeft oorbellen in.
+My watch is fast.|Mijn horloge loopt voor.
+My watch is slow.|Mijn horloge loopt achter.
+I've got sunglasses on.|Ik heb een zonnebril op.
+He has a tattoo on his arm.|Hij heeft een tatoeage op zijn arm.
+
+# Vocabulary: the body
+I've cut my finger.|Ik heb in mijn vinger gesneden.
+My shoulder hurts.|Mijn schouder doet pijn.|Ik heb pijn in mijn schouder.
+I've got something in my eye.|Ik heb iets in mijn oog.
+My ears hurt.|Mijn oren doen pijn.|Ik heb oorpijn.
+I bit my tongue.|Ik heb op mijn tong gebeten.
+He broke his leg skiing.|Hij heeft zijn been gebroken tijdens het skiën.
+My neck is stiff.|Mijn nek is stijf.
+I have a bruise on my knee.|Ik heb een blauwe plek op mijn knie.
+My skin is very dry.|Mijn huid is erg droog.
+I've got a blister on my heel.|Ik heb een blaar op mijn hiel.
+My lips are chapped.|Mijn lippen zijn gesprongen.
+I hit my head.|Ik heb mijn hoofd gestoten.
+He has broad shoulders.|Hij heeft brede schouders.
+She has small hands.|Ze heeft kleine handen.
+My nose is running.|Mijn neus loopt.|Ik heb een loopneus.
+I've got a sore toe.|Mijn teen doet pijn.
+My stomach is rumbling.|Mijn maag knort.|Mijn buik rommelt.
+Hold your breath.|Houd je adem in.|Hou je adem in.
+Open your mouth wide.|Doe je mond wijd open.
+I'm right-handed.|Ik ben rechtshandig.
+
+# Vocabulary: animals
+The dog is wagging its tail.|De hond kwispelt.|De hond kwispelt met zijn staart.
+The cat caught a mouse.|De kat heeft een muis gevangen.
+We have two rabbits.|We hebben twee konijnen.
+There are ducks in the canal.|Er zitten eenden in de gracht.
+The sheep are in the meadow.|De schapen staan in de wei.
+I saw a fox in the garden.|Ik zag een vos in de tuin.|Ik heb een vos in de tuin gezien.
+The pig is rolling in the mud.|Het varken rolt in de modder.
+The chickens lay an egg every day.|De kippen leggen elke dag een ei.
+A bee stung me.|Ik ben door een bij gestoken.|Er heeft een bij me gestoken.
+There's a fly in my soup.|Er zit een vlieg in mijn soep.
+The mosquitoes kept me awake.|De muggen hielden me wakker.
+The horse is eating hay.|Het paard eet hooi.
+A goat is standing on the roof.|Er staat een geit op het dak.
+I'm allergic to cats.|Ik ben allergisch voor katten.
+The bird is building a nest.|De vogel bouwt een nest.
+We feed the birds in winter.|We voeren de vogels in de winter.|In de winter voeren we de vogels.
+The dog needs to go out.|De hond moet uitgelaten worden.
+I walk the dog twice a day.|Ik laat de hond twee keer per dag uit.
+There are seals on the sandbank.|Er liggen zeehonden op de zandplaat.
+The fish are swimming in the pond.|De vissen zwemmen in de vijver.
+Snails are eating my lettuce.|Slakken eten mijn sla op.
+The butterfly landed on a flower.|De vlinder landde op een bloem.
+A herring gull stole my chips.|Een meeuw heeft mijn patat gestolen.|Een zilvermeeuw pakte mijn friet.
+Is your dog friendly?|Is je hond lief?|Is je hond vriendelijk?
+
+# Vocabulary: town and buildings
+The town hall is on the market square.|Het stadhuis staat op de Markt.|Het stadhuis staat aan het marktplein.
+There's a petrol station on the corner.|Er is een tankstation op de hoek.|Op de hoek is een benzinestation.
+The car park is full.|De parkeergarage is vol.|De parkeerplaats is vol.
+The swimming pool is open until nine.|Het zwembad is tot negen uur open.
+I'm going to the butcher's.|Ik ga naar de slager.
+The greengrocer has fresh fruit.|De groenteboer heeft vers fruit.
+The fishmonger sells herring.|De visboer verkoopt haring.
+There's a new café in our street.|Er is een nieuw café in onze straat.
+The tower is visible from far away.|De toren is van ver te zien.
+The windmill still works.|De molen werkt nog.|De molen draait nog.
+The shopping centre is outside the city.|Het winkelcentrum ligt buiten de stad.
+The police station is next to the fire station.|Het politiebureau is naast de brandweerkazerne.
+The zoo is closed in winter.|De dierentuin is in de winter dicht.
+We walked across the square.|We liepen over het plein.
+The pavement is very narrow.|De stoep is heel smal.
+Cross at the zebra crossing.|Steek over bij het zebrapad.
+There's a bench in the park.|Er staat een bankje in het park.
+The playground is busy.|De speeltuin is druk.
+The theatre is sold out tonight.|Het theater is vanavond uitverkocht.
+The castle is seven hundred years old.|Het kasteel is zevenhonderd jaar oud.
+The harbour is full of boats.|De haven ligt vol boten.|De haven ligt vol met boten.
+The village has one shop.|Het dorp heeft één winkel.
+They live on the outskirts of the city.|Ze wonen aan de rand van de stad.
+The street lights are on.|De straatlantaarns branden.|De straatverlichting is aan.
+
+# Vocabulary: useful verbs
+Can you lend me a pen?|Kun je me een pen lenen?|Mag ik een pen van je lenen?
+Can I borrow your umbrella?|Mag ik je paraplu lenen?
+Fold the towels.|Vouw de handdoeken op.
+Hang the washing outside.|Hang de was buiten op.
+Throw it away.|Gooi het weg.
+Catch!|Vang!
+Push the door.|Duw tegen de deur.|Duw de deur open.
+Pull the rope.|Trek aan het touw.
+Lift the box carefully.|Til de doos voorzichtig op.
+Carry the bags inside.|Draag de tassen naar binnen.
+Shake the bottle first.|Schud eerst de fles.|Eerst de fles schudden.
+I'm counting the money.|Ik tel het geld.
+Measure the room.|Meet de kamer op.
+How much does it weigh?|Hoeveel weegt het?
+I'm keeping the receipt.|Ik bewaar het bonnetje.
+I'm trying to remember his name.|Ik probeer zijn naam te onthouden.|Ik probeer me zijn naam te herinneren.
+Choose a number.|Kies een nummer.|Kies een getal.
+I'm saving my energy.|Ik spaar mijn energie.
+Don't wake the baby.|Maak de baby niet wakker.
+He's hiding behind the door.|Hij verstopt zich achter de deur.
+I'm searching everywhere.|Ik zoek overal.
+I found it under the sofa.|Ik heb het onder de bank gevonden.
+She's knocking on the door.|Ze klopt op de deur.
+He's whistling a song.|Hij fluit een liedje.
+The children are shouting.|De kinderen schreeuwen.
+Don't push!|Niet duwen!
+I'm drawing a picture.|Ik maak een tekening.|Ik teken een plaatje.
+She's painting the fence.|Ze verft het hek.
+I'm repairing the chair.|Ik repareer de stoel.|Ik maak de stoel.
+I'm building a shed.|Ik bouw een schuurtje.
+He's digging a hole.|Hij graaft een gat.
+I'm planting tulips.|Ik plant tulpen.
+Water the plants twice a week.|Geef de planten twee keer per week water.
+She's sewing a button on.|Ze zet een knoop aan.|Ze naait een knoop aan.
+He's typing an email.|Hij typt een e-mail.
+I'm printing the tickets.|Ik print de kaartjes.|Ik druk de kaartjes af.
+Sign here.|Teken hier.|Hier tekenen.
+I'm crossing the road.|Ik steek de weg over.
+Climb up the ladder.|Klim de ladder op.
+He jumped into the water.|Hij sprong in het water.
+I'm floating on my back.|Ik drijf op mijn rug.
+The plane is landing.|Het vliegtuig landt.
+The boat is sinking.|De boot zinkt.
+The ice is melting.|Het ijs smelt.
+The leaves are falling.|De bladeren vallen.
+The price is rising.|De prijs stijgt.
+The temperature is dropping.|De temperatuur daalt.
+
+# Vocabulary: adjectives
+The coffee is too strong.|De koffie is te sterk.
+The tea is too weak.|De thee is te slap.
+The road is wide.|De weg is breed.
+The bed is too narrow.|Het bed is te smal.
+The box is light.|De doos is licht.
+The suitcase is heavy.|De koffer is zwaar.
+The knife is sharp.|Het mes is scherp.
+The knife is blunt.|Het mes is bot.
+The floor is wet.|De vloer is nat.
+The towel is dry.|De handdoek is droog.
+The water is shallow here.|Het water is hier ondiep.
+The room is dark.|De kamer is donker.
+It's quiet in the library.|Het is stil in de bibliotheek.
+It's noisy in the café.|Het is lawaaierig in het café.
+The streets are empty.|De straten zijn leeg.
+The train is full.|De trein is vol.
+The meat is raw.|Het vlees is rauw.
+The pasta is ready.|De pasta is klaar.|De pasta is gaar.
+The banana is soft.|De banaan is zacht.
+The bread is stale.|Het brood is oud.|Het brood is oudbakken.
+He's very rich.|Hij is heel rijk.
+They're poor.|Ze zijn arm.
+It's a famous painting.|Het is een beroemd schilderij.
+This is a well-known restaurant.|Dit is een bekend restaurant.
+The question is simple.|De vraag is eenvoudig.|De vraag is simpel.
+The exam was hard.|Het examen was moeilijk.|Het examen was zwaar.
+It's dangerous to cycle here.|Het is gevaarlijk om hier te fietsen.
+It's safe here.|Het is hier veilig.
+That's impossible.|Dat is onmogelijk.
+That's possible.|Dat is mogelijk.|Dat kan.
+It's important.|Het is belangrijk.
+It's normal.|Het is normaal.
+It's strange.|Het is vreemd.|Het is raar.
+It's special.|Het is bijzonder.
+He's a polite young man.|Hij is een beleefde jongeman.
+She's very busy.|Ze heeft het heel druk.|Ze is erg druk.
+The children are naughty.|De kinderen zijn ondeugend.|De kinderen zijn stout.
+The baby is sweet.|De baby is lief.
+The soup is lukewarm.|De soep is lauw.
+The light is too bright.|Het licht is te fel.
+The music is too loud.|De muziek is te hard.
+Speak softly.|Praat zacht.|Praat zachtjes.
+
+# Vocabulary: time and quantity
+A quarter of an hour.|Een kwartier.
+Half an hour.|Een half uur.
+Every other day.|Om de dag.|Om de andere dag.
+Once a month.|Een keer per maand.|Eens per maand.
+In the middle of the night.|Midden in de nacht.
+At the beginning of the year.|Aan het begin van het jaar.
+At the end of the month.|Aan het eind van de maand.|Aan het einde van de maand.
+For a while.|Een tijdje.
+A few minutes ago.|Een paar minuten geleden.
+Three years ago.|Drie jaar geleden.
+Within a week.|Binnen een week.
+A dozen eggs.|Een doos eieren.|Twaalf eieren.
+A couple of days.|Een paar dagen.
+Hardly anybody came.|Er kwam bijna niemand.
+Everybody was there.|Iedereen was er.
+Somebody called.|Er heeft iemand gebeld.|Iemand heeft gebeld.
+Something smells good.|Er ruikt iets lekker.|Iets ruikt lekker.
+I've looked everywhere.|Ik heb overal gekeken.
+I can't find it anywhere.|Ik kan het nergens vinden.
+Both of them are coming.|Ze komen allebei.
+Neither of us knew.|Geen van ons wist het.|We wisten het allebei niet.
+Too many people.|Te veel mensen.
+Not enough time.|Niet genoeg tijd.|Te weinig tijd.
+A bit more, please.|Een beetje meer, alsjeblieft.|Iets meer graag.
+A lot of noise.|Veel lawaai.
+Half of the class is ill.|De helft van de klas is ziek.
+Twice as expensive.|Twee keer zo duur.
+The first time.|De eerste keer.
+The last time.|De laatste keer.
+The second week of June.|De tweede week van juni.
+On the third floor.|Op de derde verdieping.
+In the twentieth century.|In de twintigste eeuw.
+
+# Vocabulary: jobs
+My neighbour is a plumber.|Mijn buurman is loodgieter.
+Her husband is a lawyer.|Haar man is advocaat.
+He works as a waiter.|Hij werkt als ober.|Hij werkt als serveerder.
+She's a hairdresser.|Ze is kapper.|Ze is kapster.
+My brother is a farmer.|Mijn broer is boer.
+The postman comes at eleven.|De postbode komt om elf uur.
+The cleaner comes on Fridays.|De schoonmaker komt op vrijdag.|De schoonmaakster komt op vrijdag.
+The cook is very good.|De kok is heel goed.
+She works as a cashier.|Ze werkt achter de kassa.|Ze is caissière.
+He's a bus driver.|Hij is buschauffeur.
+My sister is a vet.|Mijn zus is dierenarts.
+The baker gets up at four.|De bakker staat om vier uur op.
+He's an engineer.|Hij is ingenieur.
+She's a journalist.|Ze is journalist.
+My father was a carpenter.|Mijn vader was timmerman.
+The firefighters arrived quickly.|De brandweer was er snel.|De brandweermannen kwamen snel.
+The police officer helped us.|De politieagent heeft ons geholpen.|De agent hielp ons.
+The pharmacist gave me advice.|De apotheker gaf me advies.
+She's a cleaner at a hotel.|Ze werkt als schoonmaakster in een hotel.
+He's an electrician.|Hij is elektricien.
+I'm a programmer.|Ik ben programmeur.
+She works in a shop.|Ze werkt in een winkel.
+He's unemployed.|Hij is werkloos.
+She's retired.|Ze is met pensioen.|Ze is gepensioneerd.
+
+# Vocabulary: school and study
+Where is my pencil case?|Waar is mijn etui?
+I need a ruler and a rubber.|Ik heb een liniaal en een gum nodig.
+Write your name at the top.|Schrijf je naam bovenaan.
+Turn to page twenty.|Sla bladzijde twintig open.|Ga naar pagina twintig.
+The pupils are in the classroom.|De leerlingen zitten in het klaslokaal.|De leerlingen zijn in de klas.
+The headmaster wants to talk to you.|De directeur wil je spreken.
+We have a break at ten.|Om tien uur hebben we pauze.
+I'm good at languages.|Ik ben goed in talen.
+I'm bad at maths.|Ik ben slecht in wiskunde.|Ik ben slecht in rekenen.
+History is my favourite subject.|Geschiedenis is mijn lievelingsvak.
+I got a good mark.|Ik heb een goed cijfer gehaald.|Ik had een goed cijfer.
+I got a seven.|Ik had een zeven.|Ik heb een zeven gehaald.
+The answer is wrong.|Het antwoord is fout.
+The answer is correct.|Het antwoord is goed.|Het antwoord klopt.
+Raise your hand.|Steek je vinger op.
+Explain it again, please.|Leg het nog eens uit, alsjeblieft.|Wil je het nog een keer uitleggen?
+I've forgotten my homework.|Ik ben mijn huiswerk vergeten.
+The summer holidays start next week.|De zomervakantie begint volgende week.
+He's going to secondary school.|Hij gaat naar de middelbare school.
+I'm studying for a test.|Ik leer voor een toets.
+Read the text out loud.|Lees de tekst hardop voor.
+Underline the verbs.|Onderstreep de werkwoorden.
+Translate this sentence.|Vertaal deze zin.
+Look it up in the dictionary.|Zoek het op in het woordenboek.
+
+# Vocabulary: travel
+I've lost my luggage.|Ik ben mijn bagage kwijt.
+My suitcase is too heavy.|Mijn koffer is te zwaar.
+I only have hand luggage.|Ik heb alleen handbagage.
+Where is the departure hall?|Waar is de vertrekhal?
+The gate is closing.|De gate gaat dicht.
+Fasten your seatbelt.|Doe je gordel om.|Maak je veiligheidsgordel vast.
+I'd like a window seat.|Ik wil graag een plaats bij het raam.|Ik wil graag aan het raam zitten.
+I'd like an aisle seat.|Ik wil graag een plaats aan het gangpad.
+The flight takes two hours.|De vlucht duurt twee uur.
+We land at six.|We landen om zes uur.
+Have your passport ready.|Houd je paspoort bij de hand.|Zorg dat je je paspoort klaar hebt.
+Where is customs?|Waar is de douane?
+We're staying at a campsite.|We staan op een camping.|We logeren op een camping.
+We put up the tent.|We hebben de tent opgezet.|We zetten de tent op.
+We're staying in a holiday home.|We zitten in een vakantiehuisje.
+I'd like a map of the city.|Ik wil graag een plattegrond van de stad.
+Where is the tourist information office?|Waar is de VVV?|Waar is het toeristenbureau?
+Is there a guided tour?|Is er een rondleiding?
+How much is the entrance fee?|Hoeveel kost de toegang?|Wat kost een kaartje?
+Is it worth seeing?|Is het de moeite waard?|Is het de moeite om te zien?
+We took the ferry.|We hebben de veerboot genomen.|We namen de pont.
+The view from the top is great.|Het uitzicht vanaf boven is prachtig.|Vanaf de top is het uitzicht geweldig.
+I got sunburnt.|Ik ben verbrand.
+I bought a souvenir.|Ik heb een souvenir gekocht.
+We had a great time.|We hebben het heel leuk gehad.
+
+# Vocabulary: health and the pharmacy
+I need something for a cough.|Ik heb iets nodig tegen hoesten.|Ik heb iets tegen de hoest nodig.
+Do you have plasters?|Heeft u pleisters?|Hebben jullie pleisters?
+I'd like some painkillers.|Ik wil graag pijnstillers.|Ik wil graag iets tegen de pijn.
+Take two tablets after dinner.|Neem twee tabletten na het eten.
+I have to take antibiotics.|Ik moet antibiotica slikken.|Ik moet een antibioticakuur doen.
+I feel sick.|Ik ben misselijk.
+I threw up.|Ik heb overgegeven.
+I have diarrhoea.|Ik heb diarree.
+My throat is sore.|Mijn keel doet pijn.|Ik heb keelpijn.
+I'm sneezing all the time.|Ik moet de hele tijd niezen.|Ik nies de hele tijd.
+I've got the flu.|Ik heb griep.
+She's in bed with a fever.|Ze ligt met koorts in bed.
+I need to make an appointment with the dentist.|Ik moet een afspraak maken bij de tandarts.
+I have a toothache.|Ik heb kiespijn.|Ik heb tandpijn.
+I need glasses.|Ik heb een bril nodig.
+I can't see very well.|Ik kan niet zo goed zien.|Ik zie niet zo goed.
+I'm pregnant.|Ik ben zwanger.
+I'm feeling better already.|Ik voel me al beter.
+Rest well.|Rust goed uit.|Neem goed rust.
+Stay in bed.|Blijf in bed.
+
+# Vocabulary: family events
+My sister is getting married in June.|Mijn zus trouwt in juni.|Mijn zus gaat in juni trouwen.
+The wedding was beautiful.|De bruiloft was prachtig.|Het was een prachtige bruiloft.
+The bride wore a white dress.|De bruid droeg een witte jurk.
+The groom was very nervous.|De bruidegom was heel zenuwachtig.
+They had a baby girl.|Ze hebben een dochtertje gekregen.
+The baby was born last night.|De baby is vannacht geboren.
+We're going to visit the baby.|We gaan op kraamvisite.|We gaan de baby bekijken.
+My grandfather died last year.|Mijn opa is vorig jaar overleden.
+The funeral is on Friday.|De begrafenis is vrijdag.|De uitvaart is op vrijdag.
+My condolences.|Gecondoleerd.|Mijn deelneming.
+They're celebrating their anniversary.|Ze vieren hun trouwdag.
+My parents have been married for forty years.|Mijn ouders zijn veertig jaar getrouwd.
+We celebrate Christmas with the family.|We vieren Kerstmis met de familie.|We vieren kerst met de familie.
+Happy New Year!|Gelukkig nieuwjaar!
+Merry Christmas!|Vrolijk kerstfeest!|Fijne kerst!
+Happy Easter!|Vrolijk Pasen!|Fijne Pasen!
+We give each other presents.|We geven elkaar cadeautjes.
+I wrapped the presents.|Ik heb de cadeaus ingepakt.
+We sang for her birthday.|We hebben voor haar verjaardag gezongen.
+He blew out the candles.|Hij blies de kaarsjes uit.
+
+# Vocabulary: nature and landscape
+The river is very wide here.|De rivier is hier heel breed.
+We climbed the hill.|We zijn de heuvel op geklommen.|We beklommen de heuvel.
+There are no mountains in the Netherlands.|Er zijn geen bergen in Nederland.
+The lake is frozen.|Het meer is bevroren.
+We walked along the coast.|We liepen langs de kust.
+The island is only reachable by boat.|Het eiland is alleen met de boot bereikbaar.
+The forest is very quiet.|Het bos is heel stil.
+The field is full of tulips.|Het veld staat vol tulpen.
+The grass is wet.|Het gras is nat.
+The sand is hot.|Het zand is heet.
+There's a big tree in the garden.|Er staat een grote boom in de tuin.
+The roses are blooming.|De rozen bloeien.
+The sky is clear tonight.|De lucht is helder vanavond.
+Look at the stars!|Kijk naar de sterren!|Kijk eens naar de sterren!
+The moon is full.|Het is volle maan.
+There's a rainbow.|Er is een regenboog.
+The waves are high.|De golven zijn hoog.
+The tide is coming in.|Het wordt vloed.|Het water komt op.
+It's low tide.|Het is eb.
+There was thunder and lightning.|Het onweerde.|Er was onweer.
+There's a lot of fog this morning.|Het is vanochtend erg mistig.|Er is veel mist vanochtend.
+The ground is frozen.|De grond is bevroren.
+The stones are slippery.|De stenen zijn glad.
+
+# Vocabulary: common phrases with simple words
+Wait for me!|Wacht op mij!|Wacht op me!
+Come here.|Kom hier.|Kom eens hier.
+Go away!|Ga weg!
+Stay here.|Blijf hier.
+Hold on tight.|Hou je goed vast.|Houd je goed vast.
+Leave it.|Laat maar.|Laat het maar.
+It's my turn.|Het is mijn beurt.
+Whose turn is it?|Wie is er aan de beurt?
+It's on the way.|Het is op de route.|Het ligt op de weg.
+I'm on my way.|Ik ben onderweg.
+I'm almost there.|Ik ben er bijna.
+I'm outside.|Ik sta buiten.
+I'm downstairs.|Ik ben beneden.
+I'll be right there.|Ik kom eraan.
+Just a second.|Een momentje.|Heel even.
+Watch out, it's hot.|Pas op, het is heet.
+Hands off!|Afblijven!|Handen thuis!
+Leave me alone.|Laat me met rust.
+Well done!|Goed gedaan!|Knap gedaan!
+That's enough.|Zo is het genoeg.|Dat is genoeg.
+Is that all?|Is dat alles?
+That's it.|Dat was het.|Klaar.
+So what?|Nou en?
+Who cares?|Wat maakt het uit?
+What's wrong?|Wat is er?|Wat is er mis?
+What's the matter with you?|Wat is er met je?
+I'm not in the mood.|Ik heb geen zin.
+Same to you.|Insgelijks.|Jij ook.
+You too!|Jij ook!
+Bless you!|Gezondheid!
+Excuse me, can I get past?|Pardon, mag ik er even langs?
+Is anyone sitting here?|Zit hier iemand?
+After you.|Na u.|Gaat u voor.
+Mind your head.|Pas op je hoofd.|Kijk uit voor je hoofd.
+I'm joking.|Ik maak een grapje.|Grapje.
+Seriously?|Serieus?|Meen je dat?
+No way!|Echt niet!|Nee joh!
+I hope so.|Ik hoop het.|Dat hoop ik.
+I hope not.|Ik hoop van niet.|Hopelijk niet.
+I'm afraid not.|Helaas niet.
+Of course not.|Natuurlijk niet.
+Why not?|Waarom niet?
+Apparently.|Blijkbaar.|Schijnbaar.
+In any case.|In ieder geval.|In elk geval.
+
+# Vocabulary: around town
+I'm going to the gym.|Ik ga naar de sportschool.
+I need to go to the bank.|Ik moet naar de bank.
+I'm going to the hairdresser's tomorrow.|Ik ga morgen naar de kapper.
+I'm picking up the dry cleaning.|Ik haal de stomerij op.|Ik ga naar de stomerij.
+The launderette is around the corner.|De wasserette is om de hoek.
+I'm going to the garden centre.|Ik ga naar het tuincentrum.
+The flower shop is closed.|De bloemenwinkel is dicht.|De bloemist is dicht.
+We meet at the bus stop.|We spreken af bij de bushalte.
+Where's the nearest metro station?|Waar is het dichtstbijzijnde metrostation?
+The station has a bike park.|Het station heeft een fietsenstalling.
+The church bells are ringing.|De kerkklokken luiden.
+There's a market every Wednesday.|Er is elke woensdag markt.
+The bookshop has Dutch and English books.|De boekhandel heeft Nederlandse en Engelse boeken.
+The cinema is showing a new film.|In de bioscoop draait een nieuwe film.
+I want to see the old town.|Ik wil de oude binnenstad zien.
+The canals are beautiful at night.|De grachten zijn 's avonds prachtig.
+The houses along the canal are very old.|De huizen aan de gracht zijn heel oud.
+There's a houseboat for sale.|Er is een woonboot te koop.
+The streets are narrow and busy.|De straten zijn smal en druk.
+It's a lovely neighbourhood.|Het is een leuke buurt.|Het is een fijne wijk.
+There's a lot of construction going on.|Er wordt veel gebouwd.
+The road is closed because of roadworks.|De weg is afgesloten vanwege werkzaamheden.
+Follow the signs.|Volg de borden.
+Turn around.|Keer om.|Draai om.
+We're going the wrong way.|We gaan de verkeerde kant op.
+It's the other way.|Het is de andere kant op.
+
+# Vocabulary: describing daily life
+My alarm went off at six.|Mijn wekker ging om zes uur.|Mijn wekker ging af om zes uur.
+I overslept.|Ik heb me verslapen.
+I had breakfast in a hurry.|Ik heb snel ontbeten.|Ik ontbeet in een haast.
+I missed the bus.|Ik heb de bus gemist.
+I was just on time.|Ik was net op tijd.
+I took a short break.|Ik heb een korte pauze genomen.
+I went for a walk at lunchtime.|Ik heb tussen de middag een wandeling gemaakt.
+I left work early.|Ik ben vroeg van mijn werk weggegaan.
+I did the shopping on the way home.|Ik heb op weg naar huis boodschappen gedaan.
+I cooked a simple meal.|Ik heb een eenvoudige maaltijd gekookt.
+I called my mother in the evening.|Ik heb 's avonds mijn moeder gebeld.
+I watched a series.|Ik heb een serie gekeken.
+I went to bed early.|Ik ben vroeg naar bed gegaan.
+I couldn't fall asleep.|Ik kon niet in slaap komen.
+I woke up in the middle of the night.|Ik werd midden in de nacht wakker.
+It was a long day.|Het was een lange dag.
+It was a quiet day.|Het was een rustige dag.
+Nothing special happened.|Er is niets bijzonders gebeurd.
+Today went well.|Vandaag ging goed.|Het ging goed vandaag.
+Tomorrow will be busy.|Morgen wordt het druk.

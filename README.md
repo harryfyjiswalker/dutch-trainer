@@ -15,14 +15,16 @@ A sentence counts as **known** once its review interval reaches 21 days.
 
 ## Content
 
-About 2,300 hand-written sentences in `data/`:
+About 4,300 hand-written sentences in `data/`, using roughly 4,200 different Dutch word forms:
 
 | Level | Sentences | Covers, implicitly |
 |---|---|---|
 | A1 | 575 | greetings, present tense, questions, word order, basic perfect tense |
-| A2 | 590 | past tenses, separable and reflexive verbs, comparisons, subordinate clauses, *er* |
-| B1 | 563 | relative clauses, conditionals, passive, reported speech, work, society, idioms |
-| B2 | 560 | modal particles, nuanced argument, formal register, abstract topics, idioms |
+| A2 | 1,118 | past tenses, separable and reflexive verbs, comparisons, subordinate clauses, *er*, everyday vocabulary (home, kitchen, body, town, jobs, travel) |
+| B1 | 1,306 | relative clauses, conditionals, passive, reported speech; vocabulary for work, admin, money, health, media, society |
+| B2 | 1,279 | modal particles, nuanced argument, formal register; vocabulary for economy, law, science, politics, culture, idioms |
+
+Each level starts with grammar-focused sentences and then moves on to vocabulary-focused topics.
 
 Format, one sentence per line: `English | Dutch | other accepted Dutch | …`. Lines starting with `#` are topic headings. New sentences are introduced in file order.
 

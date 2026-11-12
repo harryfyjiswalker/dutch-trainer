@@ -122,8 +122,10 @@ const TENS = ['', '', 'twintig', 'dertig', 'veertig', 'vijftig', 'zestig', 'zeve
 function numWord(n) {
   if (n < 20) return UNITS[n];
   if (n < 100) { const u = n % 10, t = TENS[Math.floor(n / 10)]; return u ? UNITS[u] + (u === 2 || u === 3 ? 'ën' : 'en') + t : t; }
-  if (n === 100) return 'honderd';
-  if (n === 1000) return 'duizend';
+  if (n < 1000) { const h = Math.floor(n / 100), r = n % 100; return (h > 1 ? UNITS[h] : '') + 'honderd' + (r ? numWord(r) : ''); }
+  // years like 1953 are said "negentien(honderd)drieënvijftig"; we use the short form, the long one is listed as an alternative where it matters
+  if (n >= 1100 && n < 2000 && n % 100) return numWord(Math.floor(n / 100)) + numWord(n % 100);
+  if (n < 10000) { const t = Math.floor(n / 1000), r = n % 1000; return (t > 1 ? numWord(t) : '') + 'duizend' + (r ? numWord(r) : ''); }
   return String(n);
 }
 const CANON = { jij: 'je', jouw: 'je', wij: 'we', zij: 'ze', mij: 'me', "m'n": 'mijn', "z'n": 'zijn', "d'r": 'haar', "'t": 'het', "'n": 'een', ok: 'oke' };
